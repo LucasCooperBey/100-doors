@@ -2,7 +2,7 @@
 
 One door a day for 100 days into the things I've made with AI, in order, from my first app to the system I run now.
 
-Day 1 is Tuesday, October 6, 2026. Day 100 is Wednesday, January 13, 2027.
+Day 1 is Tuesday, October 13, 2026. Day 100 is Wednesday, January 20, 2027.
 
 Each door says what the thing was, when I made it and what changed next. Most doors also leave you something to use that day: a tool, a template or an exercise. Everything here is extracted fresh and checked before it goes up. Client work stays private and only shows up as a story.
 
