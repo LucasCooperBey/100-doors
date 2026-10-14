@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>100 Doors to Recursion</title>
+<link>https://github.com/Lucface/100-doors</link>
+<description>One door a day for 100 days into the things I've made with AI, in order, from my first app to the system I run now.</description>
+<language>en-us</language>
+<lastBuildDate>Wed, 14 Oct 2026 08:00:00 -0700</lastBuildDate>
+<item>
+<title>Day 2: WebPerformanceToolkit: my first app in git, and its 33 hours of simulated scores</title>
+<link>https://github.com/Lucface/100-doors/blob/main/gifts/FIRST-PROMPT-TEMPLATE.md</link>
+<guid isPermaLink="false">100-doors-day-2</guid>
+<pubDate>Wed, 14 Oct 2026 08:00:00 -0700</pubDate>
+<description>The first prompt template: twelve sections plus the real-data line. Something to try: Before your next build, fill in at least sections 1, 4, 5 and 6, then paste the whole thing as your first message.</description>
+</item>
+<item>
+<title>Day 1: RobotTales: bedtime stories where robot siblings teach if/else, loops and variables</title>
+<link>https://github.com/Lucface/100-doors/blob/main/gifts/DAY-001-bedtime-story-prompt.md</link>
+<guid isPermaLink="false">100-doors-day-1</guid>
+<pubDate>Tue, 13 Oct 2026 08:00:00 -0700</pubDate>
+<description>A bedtime-story prompt that teaches one coding idea. Something to try: Paste it into any chat model, fill in the three brackets, and read what comes back before you read it aloud.</description>
+</item>
+</channel></rss>

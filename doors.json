@@ -1,0 +1,20 @@
+{
+  "series": "100 Doors to Recursion",
+  "index": "https://github.com/Lucface/100-doors",
+  "doors": [
+    {
+      "day": 1,
+      "date": "2026-10-13",
+      "title": "RobotTales: bedtime stories where robot siblings teach if/else, loops and variables",
+      "gift_link": "https://github.com/Lucface/100-doors/blob/main/gifts/DAY-001-bedtime-story-prompt.md",
+      "room": 1
+    },
+    {
+      "day": 2,
+      "date": "2026-10-14",
+      "title": "WebPerformanceToolkit: my first app in git, and its 33 hours of simulated scores",
+      "gift_link": "https://github.com/Lucface/100-doors/blob/main/gifts/FIRST-PROMPT-TEMPLATE.md",
+      "room": 1
+    }
+  ]
+}
