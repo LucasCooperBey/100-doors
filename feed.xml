@@ -4,7 +4,14 @@
 <link>https://github.com/Lucface/100-doors</link>
 <description>One door a day for 100 days into the things I've made with AI, in order, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 14 Oct 2026 08:00:00 -0700</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 08:00:00 -0700</lastBuildDate>
+<item>
+<title>Day 3: My CRM, started on Replit from two pasted documents</title>
+<link>https://github.com/Lucface/100-doors</link>
+<guid isPermaLink="false">100-doors-day-3</guid>
+<pubDate>Thu, 15 Oct 2026 08:00:00 -0700</pubDate>
+<description>dataguard: checks a SQL database for orphaned records and dates out of order (link goes up when it is ready). Something to try: Pick one table in a database you own and count the rows that point at a record that no longer exists.</description>
+</item>
 <item>
 <title>Day 2: WebPerformanceToolkit: my first app in git, and its 33 hours of simulated scores</title>
 <link>https://github.com/Lucface/100-doors/blob/main/gifts/FIRST-PROMPT-TEMPLATE.md</link>
