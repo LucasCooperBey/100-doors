@@ -20,7 +20,7 @@
       "day": 3,
       "date": "2026-10-15",
       "title": "My CRM, started on Replit from two pasted documents",
-      "gift_link": "https://github.com/Lucface/dataguard",
+      "gift_link": null,
       "room": 1
     },
     {
@@ -28,6 +28,13 @@
       "date": "2026-10-16",
       "title": "FriendForm: a form friends fill out from a link",
       "gift_link": "https://github.com/Lucface/100-doors/blob/main/gifts/DAY-004-blank-intake-form.md",
+      "room": 1
+    },
+    {
+      "day": 5,
+      "date": "2026-10-17",
+      "title": "MCP Context Manager: look at your MCP tools before they load",
+      "gift_link": null,
       "room": 1
     }
   ]

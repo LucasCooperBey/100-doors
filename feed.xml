@@ -4,7 +4,14 @@
 <link>https://github.com/Lucface/100-doors</link>
 <description>One door a day for 100 days into the things I've made with AI, in order, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 16 Oct 2026 08:00:00 -0700</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 08:00:00 -0700</lastBuildDate>
+<item>
+<title>Day 5: MCP Context Manager: look at your MCP tools before they load</title>
+<link>https://github.com/Lucface/100-doors</link>
+<guid isPermaLink="false">100-doors-day-5</guid>
+<pubDate>Sat, 17 Oct 2026 08:00:00 -0700</pubDate>
+<description>The repo: discover and inspect MCP servers outside the conversation (link goes up when it is ready). Something to try: Count the MCP servers you have turned on right now and write down what each one is for.</description>
+</item>
 <item>
 <title>Day 4: FriendForm: a form friends fill out from a link</title>
 <link>https://github.com/Lucface/100-doors/blob/main/gifts/DAY-004-blank-intake-form.md</link>
