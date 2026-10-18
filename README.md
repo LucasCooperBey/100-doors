@@ -16,12 +16,13 @@ Each door says what the thing was and when I made it. Most doors also leave you 
 | 3 | My CRM, started on Replit from two pasted documents | September 18, 2025 | dataguard: checks a SQL database for orphaned records and dates out of order (link goes up when it is ready) | Pick one table in a database you own and count the rows that point at a record that no longer exists. |
 | 4 | FriendForm: a form friends fill out from a link | October 9, 2025 | [A blank intake form to copy into any form tool](gifts/DAY-004-blank-intake-form.md) | Take one questionnaire you send around as a document, rebuild it from these sections and cut every question you would not act on. |
 | 5 | MCP Context Manager: look at your MCP tools before they load | November 15, 2025 | The repo: discover and inspect MCP servers outside the conversation (link goes up when it is ready) | Count the MCP servers you have turned on right now and write down what each one is for. <!-- Door 5: MCP Context Manager. This lock remembers the two notched doors that add up to today. Both of them began the same way: from pasted what? How many of them, both doors together? At what time was the smaller door's pasted? And today's door lets you look at your tools before they do what? --> |
+| 6 | My Claude Code config, and the ramp: a 53-second first session in May, then 146 sessions from November 8 to December 11 | November 20, 2025 | [claude-config-public: the operating-rules template](https://github.com/SanDiegoAIStudio/claude-config-public) | Fill in the placeholders and make it yours, starting with the first rule you'd write for your agent. |
 
 ## Follow along
 
 New doors go up on X every day. This list grows with them.
 
-The machine today, on this Mac: 25 agents, 252 skills, 225 scheduled jobs, 133 that prove their work. Yesterday: 1,004 runs did work, 2,580 had no work, 447 could not; 60 coding-lane runs; 237 commits.
+The machine today, on this Mac: 25 agents, 252 skills, 226 scheduled jobs, 133 that prove their work. Yesterday: 844 runs did work, 2,437 had no work, 435 could not; 0 coding-lane runs; 34 commits.
 
 ## Follow with your agent
 

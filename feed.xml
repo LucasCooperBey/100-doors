@@ -4,7 +4,14 @@
 <link>https://github.com/Lucface/100-doors</link>
 <description>One door a day for 100 days into the things I've made with AI, in order, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 17 Oct 2026 08:00:00 -0700</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 08:00:00 -0700</lastBuildDate>
+<item>
+<title>Day 6: My Claude Code config, and the ramp: a 53-second first session in May, then 146 sessions from November 8 to December 11</title>
+<link>https://github.com/SanDiegoAIStudio/claude-config-public</link>
+<guid isPermaLink="false">100-doors-day-6</guid>
+<pubDate>Sun, 18 Oct 2026 08:00:00 -0700</pubDate>
+<description>claude-config-public: the operating-rules template. Something to try: Fill in the placeholders and make it yours, starting with the first rule you'd write for your agent.</description>
+</item>
 <item>
 <title>Day 5: MCP Context Manager: look at your MCP tools before they load</title>
 <link>https://github.com/Lucface/100-doors</link>

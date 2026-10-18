@@ -36,6 +36,13 @@
       "title": "MCP Context Manager: look at your MCP tools before they load",
       "gift_link": null,
       "room": 1
+    },
+    {
+      "day": 6,
+      "date": "2026-10-18",
+      "title": "My Claude Code config, and the ramp: a 53-second first session in May, then 146 sessions from November 8 to December 11",
+      "gift_link": "https://github.com/SanDiegoAIStudio/claude-config-public",
+      "room": 1
     }
   ]
 }
