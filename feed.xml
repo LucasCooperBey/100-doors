@@ -4,7 +4,14 @@
 <link>https://github.com/Lucface/100-doors</link>
 <description>One door a day for 100 days into the things I've made with AI, in order, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 18 Oct 2026 08:00:00 -0700</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 08:00:00 -0700</lastBuildDate>
+<item>
+<title>Day 7: Dan the Automator: from bug-to-fix in two to three minutes to an agent that stops for a human</title>
+<link>https://github.com/Lucface/100-doors</link>
+<guid isPermaLink="false">100-doors-day-7</guid>
+<pubDate>Mon, 19 Oct 2026 08:00:00 -0700</pubDate>
+<description>The repo: clone, test, arm and clear the kill-switch (link goes up when it is ready). Something to try: Where does your agent stop and ask you first? Write the list down.</description>
+</item>
 <item>
 <title>Day 6: My Claude Code config, and the ramp: a 53-second first session in May, then 146 sessions from November 8 to December 11</title>
 <link>https://github.com/SanDiegoAIStudio/claude-config-public</link>

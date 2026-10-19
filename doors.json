@@ -43,6 +43,13 @@
       "title": "My Claude Code config, and the ramp: a 53-second first session in May, then 146 sessions from November 8 to December 11",
       "gift_link": "https://github.com/SanDiegoAIStudio/claude-config-public",
       "room": 1
+    },
+    {
+      "day": 7,
+      "date": "2026-10-19",
+      "title": "Dan the Automator: from bug-to-fix in two to three minutes to an agent that stops for a human",
+      "gift_link": null,
+      "room": 1
     }
   ]
 }
