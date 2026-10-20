@@ -2,29 +2,29 @@
 <rss version="2.0"><channel>
 <title>100 Doors to Recursion</title>
 <link>https://github.com/Lucface/100-doors</link>
-<description>One door a day for 100 days into the things I've made with AI, in order, from my first app to the system I run now.</description>
+<description>One door a day for 100 days into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
 <lastBuildDate>Mon, 19 Oct 2026 08:00:00 -0700</lastBuildDate>
 <item>
-<title>Day 7: Dan the Automator: from bug-to-fix in two to three minutes to an agent that stops for a human</title>
-<link>https://github.com/Lucface/100-doors</link>
+<title>Day 7: The perfection pass: ask for two critique passes before you look</title>
+<link>https://github.com/Lucface/claude-skills/tree/main/skills/pp2p</link>
 <guid isPermaLink="false">100-doors-day-7</guid>
 <pubDate>Mon, 19 Oct 2026 08:00:00 -0700</pubDate>
-<description>The repo: clone, test, arm and clear the kill-switch (link goes up when it is ready). Something to try: Where does your agent stop and ask you first? Write the list down.</description>
+<description>pp2p and pp3p, two Claude Code skills: two or three critique passes, then a polish. Something to try: Before you read your agent's next piece of work, ask it for two critique passes that try to break it, then a polish.</description>
 </item>
 <item>
 <title>Day 6: My Claude Code config, and the ramp: a 53-second first session in May, then 146 sessions from November 8 to December 11</title>
 <link>https://github.com/SanDiegoAIStudio/claude-config-public</link>
 <guid isPermaLink="false">100-doors-day-6</guid>
 <pubDate>Sun, 18 Oct 2026 08:00:00 -0700</pubDate>
-<description>claude-config-public: the operating-rules template. Something to try: Fill in the placeholders and make it yours, starting with the first rule you'd write for your agent.</description>
+<description>claude-config-public: the operating-rules template. Something to try: Copy it to ~/.claude/CLAUDE.md and fill in the 5 placeholders.</description>
 </item>
 <item>
-<title>Day 5: MCP Context Manager: look at your MCP tools before they load</title>
-<link>https://github.com/Lucface/100-doors</link>
+<title>Day 5: treehouse: a git worktree pool for running several coding agents side by side</title>
+<link>https://github.com/LucasCooperBey/treehouse</link>
 <guid isPermaLink="false">100-doors-day-5</guid>
 <pubDate>Sat, 17 Oct 2026 08:00:00 -0700</pubDate>
-<description>The repo: discover and inspect MCP servers outside the conversation (link goes up when it is ready). Something to try: Count the MCP servers you have turned on right now and write down what each one is for.</description>
+<description>treehouse, one bash file that needs only git: spin a worktree per agent, glance at which are dirty on one screen, and sweep only the clean, merged ones. Something to try: Run treehouse spin 3, then treehouse glance.</description>
 </item>
 <item>
 <title>Day 4: FriendForm: a form friends fill out from a link</title>

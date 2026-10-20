@@ -33,8 +33,8 @@
     {
       "day": 5,
       "date": "2026-10-17",
-      "title": "MCP Context Manager: look at your MCP tools before they load",
-      "gift_link": null,
+      "title": "treehouse: a git worktree pool for running several coding agents side by side",
+      "gift_link": "https://github.com/LucasCooperBey/treehouse",
       "room": 1
     },
     {
@@ -47,8 +47,8 @@
     {
       "day": 7,
       "date": "2026-10-19",
-      "title": "Dan the Automator: from bug-to-fix in two to three minutes to an agent that stops for a human",
-      "gift_link": null,
+      "title": "The perfection pass: ask for two critique passes before you look",
+      "gift_link": "https://github.com/Lucface/claude-skills/tree/main/skills/pp2p",
       "room": 1
     }
   ]
