@@ -118,6 +118,23 @@
         "scheduled_jobs": 227,
         "skills": 252
       }
+    },
+    {
+      "date": "2026-10-20",
+      "day": 8,
+      "values": {
+        "agents": 25,
+        "commits": 365,
+        "could_not": 651,
+        "did_work": 928,
+        "doors_opened": 7,
+        "gifts_released": 6,
+        "lane_runs": 65,
+        "no_work": 2972,
+        "proven_jobs": 134,
+        "scheduled_jobs": 228,
+        "skills": 252
+      }
     }
   ],
   "first_day": "2026-10-13",

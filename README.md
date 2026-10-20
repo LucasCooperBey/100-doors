@@ -17,12 +17,13 @@ Each door says what the thing was and when I made it. Most doors also leave you 
 | 5 | treehouse: a git worktree pool for running several coding agents side by side | July 4, 2026 | [treehouse, one bash file that needs only git: spin a worktree per agent, glance at which are dirty on one screen, and sweep only the clean, merged ones](https://github.com/LucasCooperBey/treehouse) | Run treehouse spin 3, then treehouse glance. |
 | 6 | My Claude Code config, and the ramp: a 53-second first session in May, then 146 sessions from November 8 to December 11 | November 20, 2025 | [claude-config-public: the operating-rules template](https://github.com/SanDiegoAIStudio/claude-config-public) | Copy it to ~/.claude/CLAUDE.md and fill in the 5 placeholders. |
 | 7 | The perfection pass: ask for two critique passes before you look | January 9, 2026 | [pp2p and pp3p, two Claude Code skills: two or three critique passes, then a polish](https://github.com/Lucface/claude-skills/tree/main/skills/pp2p) | Before you read your agent's next piece of work, ask it for two critique passes that try to break it, then a polish. |
+| 8 | The changelog that becomes content | December 4, 2025 | [changelog-digest: turn a day of changelog entries into a hook, a short story and video ideas](https://github.com/SanDiegoAIStudio/changelog-digest) | Run the dry run on the sample changelog, then on your own. |
 
 ## Follow along
 
 New doors go up on X every day. This list grows with them.
 
-The machine today, on this Mac: 25 agents, 252 skills, 227 scheduled jobs, 133 that prove their work. Yesterday: 979 runs did work, 2,873 had no work, 556 could not; 36 coding-lane runs; 1,005 commits.
+The machine today, on this Mac: 25 agents, 252 skills, 228 scheduled jobs, 134 that prove their work. Yesterday: 928 runs did work, 2,972 had no work, 651 could not; 65 coding-lane runs; 365 commits.
 
 ## Follow with your agent
 

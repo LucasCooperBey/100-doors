@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
 <title>100 Doors to Recursion</title>
-<link>https://github.com/Lucface/100-doors</link>
+<link>https://github.com/LucasCooperBey/100-doors</link>
 <description>One door a day for 100 days into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 19 Oct 2026 08:00:00 -0700</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 08:00:00 -0700</lastBuildDate>
+<item>
+<title>Day 8: The changelog that becomes content</title>
+<link>https://github.com/SanDiegoAIStudio/changelog-digest</link>
+<guid isPermaLink="false">100-doors-day-8</guid>
+<pubDate>Tue, 20 Oct 2026 08:00:00 -0700</pubDate>
+<description>changelog-digest: turn a day of changelog entries into a hook, a short story and video ideas. Something to try: Run the dry run on the sample changelog, then on your own.</description>
+</item>
 <item>
 <title>Day 7: The perfection pass: ask for two critique passes before you look</title>
 <link>https://github.com/Lucface/claude-skills/tree/main/skills/pp2p</link>
@@ -28,28 +35,28 @@
 </item>
 <item>
 <title>Day 4: FriendForm: a form friends fill out from a link</title>
-<link>https://github.com/Lucface/100-doors/blob/main/gifts/DAY-004-blank-intake-form.md</link>
+<link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-004-blank-intake-form.md</link>
 <guid isPermaLink="false">100-doors-day-4</guid>
 <pubDate>Fri, 16 Oct 2026 08:00:00 -0700</pubDate>
 <description>A blank intake form to copy into any form tool. Something to try: Take one questionnaire you send around as a document, rebuild it from these sections and cut every question you would not act on.</description>
 </item>
 <item>
 <title>Day 3: My CRM, started on Replit from two pasted documents</title>
-<link>https://github.com/Lucface/100-doors</link>
+<link>https://github.com/LucasCooperBey/100-doors</link>
 <guid isPermaLink="false">100-doors-day-3</guid>
 <pubDate>Thu, 15 Oct 2026 08:00:00 -0700</pubDate>
 <description>dataguard: checks a SQL database for orphaned records and dates out of order (link goes up when it is ready). Something to try: Pick one table in a database you own and count the rows that point at a record that no longer exists.</description>
 </item>
 <item>
 <title>Day 2: WebPerformanceToolkit: my first app in git, and its 33 hours of simulated scores</title>
-<link>https://github.com/Lucface/100-doors/blob/main/gifts/FIRST-PROMPT-TEMPLATE.md</link>
+<link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/FIRST-PROMPT-TEMPLATE.md</link>
 <guid isPermaLink="false">100-doors-day-2</guid>
 <pubDate>Wed, 14 Oct 2026 08:00:00 -0700</pubDate>
 <description>The first prompt template: twelve sections plus the real-data line. Something to try: Before your next build, fill in at least sections 1, 4, 5 and 6, then paste the whole thing as your first message.</description>
 </item>
 <item>
 <title>Day 1: RobotTales: bedtime stories where robot siblings teach if/else, loops and variables</title>
-<link>https://github.com/Lucface/100-doors/blob/main/gifts/DAY-001-bedtime-story-prompt.md</link>
+<link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-001-bedtime-story-prompt.md</link>
 <guid isPermaLink="false">100-doors-day-1</guid>
 <pubDate>Tue, 13 Oct 2026 08:00:00 -0700</pubDate>
 <description>A bedtime-story prompt that teaches one coding idea. Something to try: Paste it into any chat model, fill in the three brackets, and read what comes back before you read it aloud.</description>

@@ -1,19 +1,19 @@
 {
   "series": "100 Doors to Recursion",
-  "index": "https://github.com/Lucface/100-doors",
+  "index": "https://github.com/LucasCooperBey/100-doors",
   "doors": [
     {
       "day": 1,
       "date": "2026-10-13",
       "title": "RobotTales: bedtime stories where robot siblings teach if/else, loops and variables",
-      "gift_link": "https://github.com/Lucface/100-doors/blob/main/gifts/DAY-001-bedtime-story-prompt.md",
+      "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-001-bedtime-story-prompt.md",
       "room": 1
     },
     {
       "day": 2,
       "date": "2026-10-14",
       "title": "WebPerformanceToolkit: my first app in git, and its 33 hours of simulated scores",
-      "gift_link": "https://github.com/Lucface/100-doors/blob/main/gifts/FIRST-PROMPT-TEMPLATE.md",
+      "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/FIRST-PROMPT-TEMPLATE.md",
       "room": 1
     },
     {
@@ -27,7 +27,7 @@
       "day": 4,
       "date": "2026-10-16",
       "title": "FriendForm: a form friends fill out from a link",
-      "gift_link": "https://github.com/Lucface/100-doors/blob/main/gifts/DAY-004-blank-intake-form.md",
+      "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-004-blank-intake-form.md",
       "room": 1
     },
     {
@@ -49,6 +49,13 @@
       "date": "2026-10-19",
       "title": "The perfection pass: ask for two critique passes before you look",
       "gift_link": "https://github.com/Lucface/claude-skills/tree/main/skills/pp2p",
+      "room": 1
+    },
+    {
+      "day": 8,
+      "date": "2026-10-20",
+      "title": "The changelog that becomes content",
+      "gift_link": "https://github.com/SanDiegoAIStudio/changelog-digest",
       "room": 1
     }
   ]
