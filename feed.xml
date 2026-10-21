@@ -4,7 +4,14 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>One door a day for 100 days into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 20 Oct 2026 08:00:00 -0700</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 08:00:00 -0700</lastBuildDate>
+<item>
+<title>Day 9: block-destructive: a Claude Code hook that stops destructive shell commands before the agent runs them</title>
+<link>https://github.com/LucasCooperBey/block-destructive</link>
+<guid isPermaLink="false">100-doors-day-9</guid>
+<pubDate>Wed, 21 Oct 2026 08:00:00 -0700</pubDate>
+<description>The hook: refuses rm -rf on root or home, force-pushes to main, git push --no-verify and curl piped into sh; a seatbelt for accidents, not a sandbox. Something to try: Copy block-destructive.sh to ~/.claude/hooks and add it as a PreToolUse hook on Bash.</description>
+</item>
 <item>
 <title>Day 8: The changelog that becomes content</title>
 <link>https://github.com/SanDiegoAIStudio/changelog-digest</link>

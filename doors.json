@@ -57,6 +57,13 @@
       "title": "The changelog that becomes content",
       "gift_link": "https://github.com/SanDiegoAIStudio/changelog-digest",
       "room": 1
+    },
+    {
+      "day": 9,
+      "date": "2026-10-21",
+      "title": "block-destructive: a Claude Code hook that stops destructive shell commands before the agent runs them",
+      "gift_link": "https://github.com/LucasCooperBey/block-destructive",
+      "room": 1
     }
   ]
 }
