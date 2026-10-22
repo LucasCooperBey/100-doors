@@ -64,6 +64,13 @@
       "title": "block-destructive: a Claude Code hook that stops destructive shell commands before the agent runs them",
       "gift_link": "https://github.com/LucasCooperBey/block-destructive",
       "room": 1
+    },
+    {
+      "day": 10,
+      "date": "2026-10-22",
+      "title": "Ecosystem MCP: research npm packages from inside Claude Code",
+      "gift_link": "https://github.com/SanDiegoAIStudio/ecosystem-mcp",
+      "room": 1
     }
   ]
 }
