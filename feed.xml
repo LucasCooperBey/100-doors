@@ -4,7 +4,35 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>One door a day for 100 days into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 22 Oct 2026 08:00:00 -0700</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 08:00:00 -0700</lastBuildDate>
+<item>
+<title>Day 14: ShipGate: scan before a repo goes public</title>
+<link>https://github.com/LucasCooperBey/shipgate</link>
+<guid isPermaLink="false">100-doors-day-14</guid>
+<pubDate>Mon, 26 Oct 2026 08:00:00 -0700</pubDate>
+<description>ShipGate, a one-command pre-flight scanner that checks a repo for secrets, personal paths and git history leaks before it goes public. Something to try: Clone shipgate and run ./shipgate.sh /path/to/your-repo before flipping a private repo public.</description>
+</item>
+<item>
+<title>Day 13: Review gate: five checks before a build moves on</title>
+<link>https://github.com/LucasCooperBey/review-gate</link>
+<guid isPermaLink="false">100-doors-day-13</guid>
+<pubDate>Sun, 25 Oct 2026 08:00:00 -0700</pubDate>
+<description>review-gate, a pre-merge checklist and shell runner that blocks a branch until five checks pass. Something to try: Run review-gate on your current branch before opening a pull request.</description>
+</item>
+<item>
+<title>Day 12: Hooks over reminders: turn CLAUDE.md rules into shell checks</title>
+<link>https://github.com/LucasCooperBey/hook-starter</link>
+<guid isPermaLink="false">100-doors-day-12</guid>
+<pubDate>Sat, 24 Oct 2026 08:00:00 -0700</pubDate>
+<description>hook-starter, a pack of Claude Code PreToolUse and PostToolUse shell hooks that enforce rules at tool-call time. Something to try: Pick one rule your agent keeps forgetting in CLAUDE.md and wire it as a PreToolUse hook.</description>
+</item>
+<item>
+<title>Day 11: TabMap: group 200 open browser tabs by topic</title>
+<link>https://github.com/LucasCooperBey/tabmap</link>
+<guid isPermaLink="false">100-doors-day-11</guid>
+<pubDate>Fri, 23 Oct 2026 08:00:00 -0700</pubDate>
+<description>TabMap, a local Chrome extension and CLI that groups open tabs by topic without sending URLs to a server. Something to try: Load the unpacked extension in Chrome and group your open tabs by project.</description>
+</item>
 <item>
 <title>Day 10: Ecosystem MCP: research npm packages from inside Claude Code</title>
 <link>https://github.com/SanDiegoAIStudio/ecosystem-mcp</link>

@@ -71,6 +71,34 @@
       "title": "Ecosystem MCP: research npm packages from inside Claude Code",
       "gift_link": "https://github.com/SanDiegoAIStudio/ecosystem-mcp",
       "room": 1
+    },
+    {
+      "day": 11,
+      "date": "2026-10-23",
+      "title": "TabMap: group 200 open browser tabs by topic",
+      "gift_link": "https://github.com/LucasCooperBey/tabmap",
+      "room": 2
+    },
+    {
+      "day": 12,
+      "date": "2026-10-24",
+      "title": "Hooks over reminders: turn CLAUDE.md rules into shell checks",
+      "gift_link": "https://github.com/LucasCooperBey/hook-starter",
+      "room": 2
+    },
+    {
+      "day": 13,
+      "date": "2026-10-25",
+      "title": "Review gate: five checks before a build moves on",
+      "gift_link": "https://github.com/LucasCooperBey/review-gate",
+      "room": 2
+    },
+    {
+      "day": 14,
+      "date": "2026-10-26",
+      "title": "ShipGate: scan before a repo goes public",
+      "gift_link": "https://github.com/LucasCooperBey/shipgate",
+      "room": 2
     }
   ]
 }
