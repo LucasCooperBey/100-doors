@@ -30,7 +30,7 @@ Each door says what the thing was and when I made it. Most doors also leave you 
 
 New doors go up on X every day. This list grows with them.
 
-The machine today, on this Mac: 25 agents, 254 skills, 245 scheduled jobs, 155 that prove their work. Yesterday: 1,297 runs did work, 3,503 had no work, 683 could not; 232 coding-lane runs; 992 commits.
+The machine today, on this Mac: 25 agents, 254 skills, 250 scheduled jobs, 160 that prove their work. Yesterday: 1,256 runs did work, 3,515 had no work, 492 could not; 17 coding-lane runs; 252 commits.
 
 ## Follow with your agent
 
