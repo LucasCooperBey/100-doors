@@ -75,28 +75,28 @@
     {
       "day": 11,
       "date": "2026-10-23",
-      "title": "TabMap: group 200 open browser tabs by topic",
+      "title": "TabMap: why 200 tabs are open",
       "gift_link": "https://github.com/LucasCooperBey/tabmap",
       "room": 2
     },
     {
       "day": 12,
       "date": "2026-10-24",
-      "title": "Hooks over reminders: turn CLAUDE.md rules into shell checks",
-      "gift_link": "https://github.com/LucasCooperBey/hook-starter",
+      "title": "Hooks over reminders: checks on every agent edit",
+      "gift_link": "https://github.com/LucasCooperBey/harness-guard",
       "room": 2
     },
     {
       "day": 13,
       "date": "2026-10-25",
-      "title": "Review gate: five checks before a build moves on",
+      "title": "Review gate: fresh eyes on every push",
       "gift_link": "https://github.com/LucasCooperBey/review-gate",
       "room": 2
     },
     {
       "day": 14,
       "date": "2026-10-26",
-      "title": "ShipGate: scan before a repo goes public",
+      "title": "ShipGate: no leaked keys go public",
       "gift_link": "https://github.com/LucasCooperBey/shipgate",
       "room": 2
     },
