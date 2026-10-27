@@ -99,6 +99,13 @@
       "title": "ShipGate: scan before a repo goes public",
       "gift_link": "https://github.com/LucasCooperBey/shipgate",
       "room": 2
+    },
+    {
+      "day": 15,
+      "date": "2026-10-27",
+      "title": "Changelog Digest: your changelog becomes content",
+      "gift_link": "https://github.com/SanDiegoAIStudio/changelog-digest",
+      "room": 2
     }
   ]
 }

@@ -4,7 +4,14 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>One door a day for 100 days into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 26 Oct 2026 08:00:00 -0700</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 08:00:00 -0700</lastBuildDate>
+<item>
+<title>Day 15: Changelog Digest: your changelog becomes content</title>
+<link>https://github.com/SanDiegoAIStudio/changelog-digest</link>
+<guid isPermaLink="false">100-doors-day-15</guid>
+<pubDate>Tue, 27 Oct 2026 08:00:00 -0700</pubDate>
+<description>changelog-digest, a Node CLI that reads a markdown changelog and writes a hook, a short story and video ideas. Something to try: Run node src/cli.js --file examples/sample-changelog.md --dry-run to preview the prompt without an API key.</description>
+</item>
 <item>
 <title>Day 14: ShipGate: scan before a repo goes public</title>
 <link>https://github.com/LucasCooperBey/shipgate</link>

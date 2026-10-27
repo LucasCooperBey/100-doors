@@ -24,6 +24,7 @@ Each door says what the thing was and when I made it. Most doors also leave you 
 | 12 | Hooks over reminders: turn CLAUDE.md rules into shell checks | March 8, 2026 | [hook-starter, a pack of Claude Code PreToolUse and PostToolUse shell hooks that enforce rules at tool-call time](https://github.com/LucasCooperBey/hook-starter) | Pick one rule your agent keeps forgetting in CLAUDE.md and wire it as a PreToolUse hook. |
 | 13 | Review gate: five checks before a build moves on | February 1, 2026 | [review-gate, a pre-merge checklist and shell runner that blocks a branch until five checks pass](https://github.com/LucasCooperBey/review-gate) | Run review-gate on your current branch before opening a pull request. |
 | 14 | ShipGate: scan before a repo goes public | September 29, 2026 | [ShipGate, a one-command pre-flight scanner that checks a repo for secrets, personal paths and git history leaks before it goes public](https://github.com/LucasCooperBey/shipgate) | Clone shipgate and run ./shipgate.sh /path/to/your-repo before flipping a private repo public. |
+| 15 | Changelog Digest: your changelog becomes content | December 4, 2025 | [changelog-digest, a Node CLI that reads a markdown changelog and writes a hook, a short story and video ideas](https://github.com/SanDiegoAIStudio/changelog-digest) | Run node src/cli.js --file examples/sample-changelog.md --dry-run to preview the prompt without an API key. |
 
 ## Follow along
 
