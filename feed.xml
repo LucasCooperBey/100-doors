@@ -4,7 +4,35 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>One door a day for 100 days into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 22 Oct 2026 08:00:00 -0700</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 08:00:00 -0700</lastBuildDate>
+<item>
+<title>Day 14: ShipGate: no leaked keys go public</title>
+<link>https://github.com/LucasCooperBey/shipgate</link>
+<guid isPermaLink="false">100-doors-day-14</guid>
+<pubDate>Mon, 26 Oct 2026 08:00:00 -0700</pubDate>
+<description>ship-gate.sh: gitleaks and trufflehog over the full git history, a LICENSE check, a raw .env check and an attribution check, one exit code. Something to try: Install gitleaks and trufflehog, clone shipgate and run ship-gate.sh inside a repo before you push it public.</description>
+</item>
+<item>
+<title>Day 13: Review gate: fresh eyes on every push</title>
+<link>https://github.com/LucasCooperBey/review-gate</link>
+<guid isPermaLink="false">100-doors-day-13</guid>
+<pubDate>Sun, 25 Oct 2026 08:00:00 -0700</pubDate>
+<description>review-gate: a pre-push hook that spawns a separate Claude Code process on the diff and answers PASS, WARN or REJECT. Something to try: Clone review-gate and run its install script inside a repo you own to add the pre-push hook.</description>
+</item>
+<item>
+<title>Day 12: Hooks over reminders: checks on every agent edit</title>
+<link>https://github.com/LucasCooperBey/harness-guard</link>
+<guid isPermaLink="false">100-doors-day-12</guid>
+<pubDate>Sat, 24 Oct 2026 08:00:00 -0700</pubDate>
+<description>The four quality hooks plus the safety hooks, each a short shell script you can read first. Something to try: Add one post-edit hook in ~/.claude/settings.json and make a test edit with a console.log to watch it catch it.</description>
+</item>
+<item>
+<title>Day 11: TabMap: why 200 tabs are open</title>
+<link>https://github.com/LucasCooperBey/tabmap</link>
+<guid isPermaLink="false">100-doors-day-11</guid>
+<pubDate>Fri, 23 Oct 2026 08:00:00 -0700</pubDate>
+<description>TabMap: capture, intent, project, stale and solved, then an optional cleanup that lists before it closes anything. Something to try: Run TabMap on your open Chrome tabs with a dry run first to see why each tab is open and which ones are stale.</description>
+</item>
 <item>
 <title>Day 10: Ecosystem MCP: research npm packages from inside Claude Code</title>
 <link>https://github.com/SanDiegoAIStudio/ecosystem-mcp</link>
@@ -28,7 +56,7 @@
 </item>
 <item>
 <title>Day 7: The perfection pass: ask for two critique passes before you look</title>
-<link>https://github.com/Lucface/claude-skills/tree/main/skills/pp2p</link>
+<link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/pp2p</link>
 <guid isPermaLink="false">100-doors-day-7</guid>
 <pubDate>Mon, 19 Oct 2026 08:00:00 -0700</pubDate>
 <description>pp2p and pp3p, two Claude Code skills: two or three critique passes, then a polish. Something to try: Before you read your agent's next piece of work, ask it for two critique passes that try to break it, then a polish.</description>
