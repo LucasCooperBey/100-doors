@@ -25,12 +25,13 @@ Each door says what the thing was and when I made it. Most doors also leave you 
 | 13 | Review gate: fresh eyes on every push | July 4, 2026 | [review-gate: one Python file (standard library only), an install script that writes a pre-push hook, and 24 tests](https://github.com/LucasCooperBey/review-gate) | Run install.sh inside your project to add the pre-push hook; it needs the Claude Code CLI signed in and Python 3.10 or newer. |
 | 14 | ShipGate: no leaked keys go public | June 20, 2026 | [ShipGate: one shell script, ship-gate.sh, that runs gitleaks and trufflehog over the full history and checks the LICENSE, a raw .env and attribution, with one exit code](https://github.com/LucasCooperBey/shipgate) | brew install gitleaks trufflehog, put ship-gate.sh on your PATH and run it in a repo before it goes public. |
 | 15 | Changelog Digest: your changelog becomes content | December 4, 2025 | [changelog-digest again (the Door 8 tool): a Python script that reads a markdown changelog and writes a hook, a short story and video ideas](https://github.com/SanDiegoAIStudio/changelog-digest) | Run python3 changelog_digest.py examples/sample-changelog.md --date 2026-03-14 --dry-run to see the prompt without an API key. |
+| 16 | CorpusSync: search what you already know | June 20, 2026 | [CorpusSync: ingest notes, documents and YouTube captions into a local Qdrant store, search by meaning and by exact word behind a relevance gate, and get answers from a local Ollama model with numbered sources](https://github.com/LucasCooperBey/corpussync) | pip install -e . in a venv, ollama pull nomic-embed-text, then corpussync ingest ./notes --corpus notes and corpussync search. |
 
 ## Follow along
 
 New doors go up on X every day. This list grows with them.
 
-The machine today, on this Mac: 25 agents, 254 skills, 250 scheduled jobs, 160 that prove their work. Yesterday: 1,256 runs did work, 3,515 had no work, 492 could not; 17 coding-lane runs; 252 commits.
+The machine today, on this Mac: 14 agents, 254 skills, 249 scheduled jobs, 161 that prove their work. Yesterday: 1,478 runs did work, 4,120 had no work, 215 could not; 32 coding-lane runs; 481 commits.
 
 ## Follow with your agent
 

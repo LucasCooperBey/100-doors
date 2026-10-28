@@ -4,7 +4,14 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>One door a day for 100 days into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 27 Oct 2026 08:00:00 -0700</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 08:00:00 -0700</lastBuildDate>
+<item>
+<title>Day 16: CorpusSync: search what you already know</title>
+<link>https://github.com/LucasCooperBey/corpussync</link>
+<guid isPermaLink="false">100-doors-day-16</guid>
+<pubDate>Wed, 28 Oct 2026 08:00:00 -0700</pubDate>
+<description>CorpusSync: ingest notes, documents and YouTube captions into a local Qdrant store, search by meaning and by exact word behind a relevance gate, and get answers from a local Ollama model with numbered sources. Something to try: pip install -e . in a venv, ollama pull nomic-embed-text, then corpussync ingest ./notes --corpus notes and corpussync search.</description>
+</item>
 <item>
 <title>Day 15: Changelog Digest: your changelog becomes content</title>
 <link>https://github.com/SanDiegoAIStudio/changelog-digest</link>

@@ -106,6 +106,13 @@
       "title": "Changelog Digest: your changelog becomes content",
       "gift_link": "https://github.com/SanDiegoAIStudio/changelog-digest",
       "room": 2
+    },
+    {
+      "day": 16,
+      "date": "2026-10-28",
+      "title": "CorpusSync: search what you already know",
+      "gift_link": "https://github.com/LucasCooperBey/corpussync",
+      "room": 2
     }
   ]
 }
