@@ -27,13 +27,12 @@ Each door says what the thing was and when I made it. Most doors also leave you 
 | 15 | Changelog Digest: your changelog becomes content | December 4, 2025 | [changelog-digest again (the Door 8 tool): a Python script that reads a markdown changelog and writes a hook, a short story and video ideas](https://github.com/SanDiegoAIStudio/changelog-digest) | Run python3 changelog_digest.py examples/sample-changelog.md --date 2026-03-14 --dry-run to see the prompt without an API key. |
 | 16 | CorpusSync: search what you already know | June 20, 2026 | [CorpusSync: ingest notes, documents and YouTube captions into a local Qdrant store, search by meaning and by exact word behind a relevance gate, and get answers from a local Ollama model with numbered sources](https://github.com/LucasCooperBey/corpussync) | pip install -e . in a venv, ollama pull nomic-embed-text, then corpussync ingest ./notes --corpus notes and corpussync search. |
 | 17 | Blind Council: five models argue, one settles | July 9, 2026 | [Blind Council: five models answer on their own, cross-examine each other as MEMBER-A to E, and a sixth model that never debated settles it](https://github.com/LucasCooperBey/blind-council) | bun install, put an OpenRouter key in .env, then bun run council "your question" (about one to two dollars for a six-seat run). |
-| 18 | The Spine Pattern: memory that never erases | June 18, 2026 | [The Spine Pattern: 13 principles, a 6-part checklist and a standard-library engine for an append-only log with provenance, typed edges and supersede](https://github.com/LucasCooperBey/spine-pattern) | Run the README's ledger story on a fresh clone: three values kept, two SUPERSEDES edges, nothing erased. |
 
 ## Follow along
 
 New doors go up on X every day. This list grows with them.
 
-The machine today, on this Mac: 14 agents, 254 skills, 249 scheduled jobs, 161 that prove their work. Yesterday: 1,478 runs did work, 4,120 had no work, 215 could not; 32 coding-lane runs; 481 commits.
+The machine today, on this Mac: 14 agents, 254 skills, 250 scheduled jobs, 161 that prove their work. Yesterday: 1,335 runs did work, 4,354 had no work, 233 could not; 31 coding-lane runs; 222 commits.
 
 ## Follow with your agent
 

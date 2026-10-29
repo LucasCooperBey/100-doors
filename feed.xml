@@ -4,14 +4,7 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>One door a day for 100 days into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 30 Oct 2026 08:00:00 -0700</lastBuildDate>
-<item>
-<title>Day 18: The Spine Pattern: memory that never erases</title>
-<link>https://github.com/LucasCooperBey/spine-pattern</link>
-<guid isPermaLink="false">100-doors-day-18</guid>
-<pubDate>Fri, 30 Oct 2026 08:00:00 -0700</pubDate>
-<description>The Spine Pattern: 13 principles, a 6-part checklist and a standard-library engine for an append-only log with provenance, typed edges and supersede. Something to try: Run the README's ledger story on a fresh clone: three values kept, two SUPERSEDES edges, nothing erased.</description>
-</item>
+<lastBuildDate>Thu, 29 Oct 2026 08:00:00 -0700</lastBuildDate>
 <item>
 <title>Day 17: Blind Council: five models argue, one settles</title>
 <link>https://github.com/LucasCooperBey/blind-council</link>
