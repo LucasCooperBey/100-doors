@@ -123,9 +123,23 @@
     },
     {
       "day": 18,
-      "date": "2026-10-30",
+      "date": "2026-10-28",
       "title": "The Spine Pattern: memory that never erases",
       "gift_link": "https://github.com/LucasCooperBey/spine-pattern",
+      "room": 2
+    },
+    {
+      "day": 19,
+      "date": "2026-10-30",
+      "title": "Field Audit: grade your AI setup with receipts",
+      "gift_link": "https://github.com/LucasCooperBey/intelligent-os-field-audit",
+      "room": 2
+    },
+    {
+      "day": 20,
+      "date": "2026-10-30",
+      "title": "Precompact Protector: keep your place through a compaction",
+      "gift_link": "https://github.com/LucasCooperBey/precompact-protector",
       "room": 2
     }
   ]

@@ -6,10 +6,24 @@
 <language>en-us</language>
 <lastBuildDate>Fri, 30 Oct 2026 08:00:00 -0700</lastBuildDate>
 <item>
+<title>Day 20: Precompact Protector: keep your place through a compaction</title>
+<link>https://github.com/LucasCooperBey/precompact-protector</link>
+<guid isPermaLink="false">100-doors-day-20</guid>
+<pubDate>Fri, 30 Oct 2026 08:00:00 -0700</pubDate>
+<description>precompact-protector: two Claude Code hooks that save the last 40 turns before compaction and hand back your last request and the files in play after. Something to try: Merge settings-snippet.json into ~/.claude/settings.json with the real path; nothing to install.</description>
+</item>
+<item>
+<title>Day 19: Field Audit: grade your AI setup with receipts</title>
+<link>https://github.com/LucasCooperBey/intelligent-os-field-audit</link>
+<guid isPermaLink="false">100-doors-day-19</guid>
+<pubDate>Fri, 30 Oct 2026 08:00:00 -0700</pubDate>
+<description>Field Audit: one paste-in prompt that has Claude Code audit the AI system on your machine, scoring 12 parts with a receipt each and naming every gap. Something to try: Paste the prompt file into Claude Code at your system root; post your scorecard as an issue to join the ledger.</description>
+</item>
+<item>
 <title>Day 18: The Spine Pattern: memory that never erases</title>
 <link>https://github.com/LucasCooperBey/spine-pattern</link>
 <guid isPermaLink="false">100-doors-day-18</guid>
-<pubDate>Fri, 30 Oct 2026 08:00:00 -0700</pubDate>
+<pubDate>Wed, 28 Oct 2026 08:00:00 -0700</pubDate>
 <description>The Spine Pattern: 13 principles, a 6-part checklist and a standard-library engine for an append-only log with provenance, typed edges and supersede. Something to try: Run the README's ledger story on a fresh clone: three values kept, two SUPERSEDES edges, nothing erased.</description>
 </item>
 <item>
