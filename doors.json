@@ -141,6 +141,13 @@
       "title": "Precompact Protector: keep your place through a compaction",
       "gift_link": "https://github.com/LucasCooperBey/precompact-protector",
       "room": 2
+    },
+    {
+      "day": 21,
+      "date": "2026-10-31",
+      "title": "Remember why you decided: one dated note per decision",
+      "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-021-dated-decision-entry.md",
+      "room": 3
     }
   ]
 }
