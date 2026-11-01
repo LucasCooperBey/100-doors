@@ -305,6 +305,40 @@
         "scheduled_jobs": 252,
         "skills": 254
       }
+    },
+    {
+      "date": "2026-10-31",
+      "day": 19,
+      "values": {
+        "agents": 14,
+        "commits": 11,
+        "could_not": 618,
+        "did_work": 758,
+        "doors_opened": 20,
+        "gifts_released": 19,
+        "lane_runs": 0,
+        "no_work": 4036,
+        "proven_jobs": 163,
+        "scheduled_jobs": 252,
+        "skills": 254
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "day": 20,
+      "values": {
+        "agents": 14,
+        "commits": 173,
+        "could_not": 677,
+        "did_work": 949,
+        "doors_opened": 20,
+        "gifts_released": 19,
+        "lane_runs": 0,
+        "no_work": 3738,
+        "proven_jobs": 164,
+        "scheduled_jobs": 253,
+        "skills": 254
+      }
     }
   ],
   "first_day": "2026-10-13",
