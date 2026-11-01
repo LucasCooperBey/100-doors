@@ -30,6 +30,7 @@ Each door says what the thing was and when I made it. Most doors also leave you 
 | 18 | The Spine Pattern: memory that never erases | June 18, 2026 | [The Spine Pattern: 13 principles, a 6-part checklist and a standard-library engine for an append-only log with provenance, typed edges and supersede](https://github.com/LucasCooperBey/spine-pattern) | Run the README's ledger story on a fresh clone: three values kept, two SUPERSEDES edges, nothing erased. |
 | 19 | Field Audit: grade your AI setup with receipts | July 22, 2026 | [Field Audit: one paste-in prompt that has Claude Code audit the AI system on your machine, scoring 12 parts with a receipt each and naming every gap](https://github.com/LucasCooperBey/intelligent-os-field-audit) | Paste the prompt file into Claude Code at your system root; post your scorecard as an issue to join the ledger. |
 | 20 | Precompact Protector: keep your place through a compaction | June 17, 2026 | [precompact-protector: two Claude Code hooks that save the last 40 turns before compaction and hand back your last request and the files in play after](https://github.com/LucasCooperBey/precompact-protector) | Merge settings-snippet.json into ~/.claude/settings.json with the real path; nothing to install. |
+| 21 | Remember why you decided: one dated note per decision | May 2, 2026 | [The dated decision entry: a template with a made-up filled example and three rules](gifts/DAY-021-dated-decision-entry.md) | After any big choice, write one dated file: what you picked, what you passed on, and the reason. |
 
 ## Follow along
 
