@@ -148,6 +148,13 @@
       "title": "Remember why you decided: one dated note per decision",
       "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-021-dated-decision-entry.md",
       "room": 3
+    },
+    {
+      "day": 22,
+      "date": "2026-11-03",
+      "title": "Explain anything to anyone: one plain sentence first, the deep detail last",
+      "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/breakdown",
+      "room": 3
     }
   ]
 }
