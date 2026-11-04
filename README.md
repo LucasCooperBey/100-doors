@@ -32,6 +32,7 @@ Each door says what the thing was and when I made it. Most doors also leave you 
 | 20 | Precompact Protector: keep your place through a compaction | June 17, 2026 | [precompact-protector: two Claude Code hooks that save the last 40 turns before compaction and hand back your last request and the files in play after](https://github.com/LucasCooperBey/precompact-protector) | Merge settings-snippet.json into ~/.claude/settings.json with the real path; nothing to install. |
 | 21 | Remember why you decided: one dated note per decision | May 2, 2026 | [The dated decision entry: a template with a made-up filled example and three rules](gifts/DAY-021-dated-decision-entry.md) | After any big choice, write one dated file: what you picked, what you passed on, and the reason. |
 | 22 | Explain anything to anyone: one plain sentence first, the deep detail last | May 3, 2026 | [The breakdown skill: one plain sentence first, then sections at 100,000, 50,000, 30,000 and 10,000 feet, each readable on its own](https://github.com/LucasCooperBey/claude-skills/tree/main/skills/breakdown) | Drop the folder into your Claude Code skills and say "break it down". |
+| 23 | Find the right AI tool fast: a hand-reviewed directory with honest pros and cons | May 30, 2026 | [The hand-review card: the template behind every directoryofagents.com listing, with three rules, a made-up filled example and a zero-code prompt](gifts/DAY-023-hand-review-card.md) | Before you pay for an AI tool, fill in one card for it after an hour of your own use. |
 
 ## Follow along
 

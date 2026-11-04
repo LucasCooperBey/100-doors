@@ -4,7 +4,14 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>One door a day for 100 days into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 03 Nov 2026 08:00:00 -0800</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 08:00:00 -0800</lastBuildDate>
+<item>
+<title>Day 23: Find the right AI tool fast: a hand-reviewed directory with honest pros and cons</title>
+<link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-023-hand-review-card.md</link>
+<guid isPermaLink="false">100-doors-day-23</guid>
+<pubDate>Wed, 04 Nov 2026 08:00:00 -0800</pubDate>
+<description>The hand-review card: the template behind every directoryofagents.com listing, with three rules, a made-up filled example and a zero-code prompt. Something to try: Before you pay for an AI tool, fill in one card for it after an hour of your own use.</description>
+</item>
 <item>
 <title>Day 22: Explain anything to anyone: one plain sentence first, the deep detail last</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/breakdown</link>

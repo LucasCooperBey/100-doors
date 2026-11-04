@@ -155,6 +155,13 @@
       "title": "Explain anything to anyone: one plain sentence first, the deep detail last",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/breakdown",
       "room": 3
+    },
+    {
+      "day": 23,
+      "date": "2026-11-04",
+      "title": "Find the right AI tool fast: a hand-reviewed directory with honest pros and cons",
+      "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-023-hand-review-card.md",
+      "room": 3
     }
   ]
 }
