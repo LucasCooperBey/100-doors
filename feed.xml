@@ -94,7 +94,7 @@
 <link>https://github.com/LucasCooperBey/review-gate</link>
 <guid isPermaLink="false">100-doors-day-13</guid>
 <pubDate>Sun, 25 Oct 2026 08:00:00 -0700</pubDate>
-<description>review-gate: one Python file (standard library only), an install script that writes a pre-push hook, and 24 tests. Something to try: Run install.sh inside your project to add the pre-push hook; it needs the Claude Code CLI signed in and Python 3.10 or newer.</description>
+<description>review-gate: one Python file (standard library only), an install script that writes a pre-push hook, and 45 tests. Something to try: Run install.sh inside your project to add the pre-push hook; it needs the Claude Code CLI signed in and Python 3.10 or newer.</description>
 </item>
 <item>
 <title>Day 12: Hooks over reminders: checks on every agent edit</title>
