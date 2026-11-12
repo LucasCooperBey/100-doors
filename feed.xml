@@ -4,7 +4,14 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>One door a day for 100 days into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 06 Nov 2026 08:00:00 -0800</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 08:00:00 -0800</lastBuildDate>
+<item>
+<title>Day 26: Turn a long YouTube video into a shorter listen</title>
+<link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-026-condense-prompt.md</link>
+<guid isPermaLink="false">100-doors-day-26</guid>
+<pubDate>Thu, 12 Nov 2026 08:00:00 -0800</pubDate>
+<description>The condense prompt, word for word, with four steps to run it in any chat, two ways to change it and its limits. Something to try: Pick one long video on your watch-later list, run its transcript through the prompt, and listen to the result.</description>
+</item>
 <item>
 <title>Day 25: Get the slides from any recorded talk: what was shown and what was said, slide by slide</title>
 <link>https://github.com/LucasCooperBey/talk-to-slides</link>

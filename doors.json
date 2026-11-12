@@ -169,6 +169,13 @@
    "title": "Get the slides from any recorded talk: what was shown and what was said, slide by slide",
    "gift_link": "https://github.com/LucasCooperBey/talk-to-slides",
    "room": 3
+  },
+  {
+   "day": 26,
+   "date": "2026-11-12",
+   "title": "Turn a long YouTube video into a shorter listen",
+   "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-026-condense-prompt.md",
+   "room": 3
   }
  ]
 }
