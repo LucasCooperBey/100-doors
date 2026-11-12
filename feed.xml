@@ -133,7 +133,7 @@
 </item>
 <item>
 <title>Day 7: The perfection pass: ask for two critique passes before you look</title>
-<link>https://github.com/Lucface/claude-skills/tree/main/skills/pp2p</link>
+<link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/pp2p</link>
 <guid isPermaLink="false">100-doors-day-7</guid>
 <pubDate>Mon, 19 Oct 2026 08:00:00 -0700</pubDate>
 <description>pp2p and pp3p, two Claude Code skills: two or three critique passes, then a polish. Something to try: Before you read your agent's next piece of work, ask it for two critique passes that try to break it, then a polish.</description>
