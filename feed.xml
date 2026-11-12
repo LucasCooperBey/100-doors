@@ -154,10 +154,10 @@
 </item>
 <item>
 <title>Day 4: FriendForm: a form friends fill out from a link</title>
-<link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-004-blank-intake-form.md</link>
+<link>https://github.com/LucasCooperBey/friendform</link>
 <guid isPermaLink="false">100-doors-day-4</guid>
 <pubDate>Fri, 16 Oct 2026 08:00:00 -0700</pubDate>
-<description>A blank intake form to copy into any form tool. Something to try: Take one questionnaire you send around as a document, rebuild it from these sections and cut every question you would not act on.</description>
+<description>friendform, the self-hosted form builder: start from a blank form or one of seven templates, share a link, collect and export the answers. Something to try: Run bun install, bun run setup and bun run dev, rebuild one questionnaire you send around as a document, and cut every question you would not act on.</description>
 </item>
 <item>
 <title>Day 3: My CRM, started on Replit from two pasted documents</title>
