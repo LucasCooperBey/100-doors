@@ -1,14 +1,14 @@
 # 100 Doors to Recursion
 
-One door a day for 100 days into the things I've made with AI, from my first app to the system I run now.
+100 doors into the things I've made with AI, from my first app to the system I run now.
 
-Day 1 is Tuesday, October 13, 2026. Day 100 is Wednesday, January 20, 2027.
+Door 1 opened Tuesday, October 13, 2026.
 
 Each door says what the thing was and when I made it. Most doors also leave you something to use that day: a tool, a template or an exercise. Everything here is extracted fresh and checked before it goes up. Client work stays private and only shows up as a story.
 
 ## The doors
 
-| Day | Door | Built | Gift | Something to try |
+| Door | Title | Built | Gift | Something to try |
 |---|---|---|---|---|
 | 1 | RobotTales: bedtime stories where robot siblings teach if/else, loops and variables | March 23, 2025 | [A bedtime-story prompt that teaches one coding idea](gifts/DAY-001-bedtime-story-prompt.md) | Paste it into any chat model, fill in the three brackets, and read what comes back before you read it aloud. |
 | 2 | WebPerformanceToolkit: my first app in git, and its 33 hours of simulated scores | June 26, 2025 | [The first prompt template: twelve sections plus the real-data line](gifts/FIRST-PROMPT-TEMPLATE.md) | Before your next build, fill in at least sections 1, 4, 5 and 6, then paste the whole thing as your first message. |
@@ -38,7 +38,7 @@ Each door says what the thing was and when I made it. Most doors also leave you 
 
 ## Follow along
 
-New doors go up on X every day. This list grows with them.
+New doors go up on X. This list grows with them.
 
 The machine today, on this Mac: 14 agents, 254 skills, 253 scheduled jobs, 164 that prove their work. Yesterday: 949 runs did work, 3,738 had no work, 677 could not; 0 coding-lane runs; 173 commits.
 
@@ -47,7 +47,7 @@ The machine today, on this Mac: 14 agents, 254 skills, 253 scheduled jobs, 164 t
 Give your AI assistant this prompt:
 
 ```text
-Each morning, read today's door at github.com/LucasCooperBey/100-doors. Check whether my setup has this piece. Propose one change I could make, and never install or change anything without asking me first.
+Read the latest door at github.com/LucasCooperBey/100-doors. Check whether my setup has this piece. Propose one change I could make, and never install or change anything without asking me first.
 ```
 
 The opened doors are also here as data: [doors.json](doors.json) and an RSS feed, [feed.xml](feed.xml).
