@@ -1,12 +1,29 @@
-# The condense prompt
+# YT-Condense: turn a long YouTube video into a shorter listen
 
-YT-Condense is a bookmarklet. Click it while a YouTube video plays, and a small worker sends the video's transcript to Claude with the prompt below. What comes back is plain prose at about a fifth of the length, ready to paste into a text-to-speech reader.
+The tool is public: **https://github.com/LucasCooperBey/yt-condense**
 
-The bookmarklet and its worker are a private build. The prompt works on its own in any chat, with no code.
+Give it a YouTube link and it gives back the video as plain spoken prose at about a fifth of the length, ready to read or to play through any text-to-speech reader. It works with or without captions. When a video has captions it uses them; when it has none, it downloads the audio and transcribes it on your own machine first.
 
-## The prompt
+## Run it
 
-This is the prompt the worker sends, word for word. Fill in the three bracketed lines.
+You need [uv](https://docs.astral.sh/uv/), a free Python runner.
+
+```sh
+curl -LsSf https://astral.sh/uv/install.sh | sh
+git clone https://github.com/LucasCooperBey/yt-condense.git
+cd yt-condense
+uv run yt_condense.py "https://www.youtube.com/watch?v=VIDEO_ID" --provider none
+```
+
+The first run installs what it needs. With `--provider none` no model is called and you need no account: the tool writes `out/VIDEO_ID/paste-into-chat.txt`, which you paste into Claude, ChatGPT or any chat model. The reply is the shorter version.
+
+To skip the paste, drop `--provider none`. If you use Claude Code, the tool runs `claude -p` on your own plan with no key; otherwise export an `ANTHROPIC_API_KEY` or run [Ollama](https://ollama.com) locally. The result lands in `out/VIDEO_ID/condensed.txt`. On a Mac, add `--speak` to also get an audio file.
+
+Useful flags: `--from 12:30` starts where you stopped watching, `--length 40` gives a longer listen, `--transcribe` transcribes the audio even when captions exist, and `--whisper-model tiny` makes transcription faster on a slow machine.
+
+## The prompt inside it
+
+This is the prompt the tool sends, word for word. It also works on its own if you paste a transcript into any chat.
 
 ```text
 Transform this YouTube transcript into a condensed audio summary.
@@ -28,19 +45,8 @@ TRANSCRIPT:
 [paste the transcript here]
 ```
 
-## Four steps
-
-1. Open the video's transcript. On YouTube's desktop site, open the description and choose Show transcript. A video with no captions has no transcript, so the prompt cannot help with it.
-2. Copy the transcript. If you already watched part of the video, copy from the point where you stopped and put that point, in seconds, on the FROM TIMESTAMP line.
-3. Paste the prompt into Claude or ChatGPT and fill in the three bracketed lines.
-4. Paste the answer into any text-to-speech reader and listen.
-
-## Make it yours
-
-- For a longer listen, change ~20% to ~40%.
-- For notes to read instead of a listen, delete the first two rules and ask for a bulleted list.
-
 ## Limits
 
-- The worker refuses a transcript over 100,000 characters, which its README puts at about an hour of video. A chat has its own limit too, so for a longer video split the transcript and run the prompt on each part.
 - A model can drop or bend a fact while it shortens. Before you act on something you heard, check that part of the video.
+- Transcribing a video with no captions takes a few minutes on a laptop, and the first time it downloads the speech model (about 460 MB for the default, 75 MB for `tiny`).
+- Private, removed, age-gated and region-locked videos cannot be read; the tool says which.
