@@ -1,8 +1,8 @@
-# The hand-review card
+# The directory and its hand-review card
 
-Every listing on directoryofagents.com is one short card, filled in by hand: what the tool does for you, what it costs one person, how hard it is to set up, and what it is good at and where it falls short.
+The directory is live at [directoryofagents.com](https://directoryofagents.com). Open it to compare AI tools by what each one does for you, what it costs one person, how hard it is to set up, and what it is good at and where it falls short. Every listing there is one short card, filled in by hand.
 
-Fill one in for each tool you are thinking of paying for. Two or three cards side by side usually make the choice.
+The card below is the shape of every listing, so you can review a tool the directory does not list yet. Fill one in for each tool you are thinking of paying for. Two or three cards side by side usually make the choice.
 
 ## The card
 
