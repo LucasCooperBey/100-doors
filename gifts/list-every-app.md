@@ -17,6 +17,23 @@ By mid-2026 one of my accounts held 38 apps. My own count had gone from 14 to 24
 - Real data in place of sample data.
 - A link someone can open without your login.
 
+## Example
+
+A made-up list, to show what the page looks like after step 4:
+
+- recipe-scaler: works
+- invoice-reminder-bot: broken (its email login expired)
+- habit-tracker: unknown (last opened in March)
+- portfolio-site: works
+- meeting-notes-summary: broken (long recordings fail to upload)
+- garage-inventory: unknown
+
+The pick is invoice-reminder-bot, because its owner still sends the reminders by hand every month.
+
+The sentence: "To be useful to one person today, it needs a fresh email login and one test reminder sent to myself."
+
+That blank is about an hour of work, so it goes on the calendar for Thursday. garage-inventory gets crossed off with one line next to it: "a spreadsheet already does this."
+
 ## Try it
 
 Do steps 1 to 4 now. Count your list. The number alone tells you something about how you build.
