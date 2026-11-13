@@ -66,6 +66,7 @@ Each door says what the thing was and when I made it. Most doors also leave you 
 | 25 | Get the slides from any recorded talk: what was shown and what was said, slide by slide<br><sub>Try it: Run talk-to-slides run recording.mp4 --out talk-out on a recording you have the right to process.</sub> | June 6, 2026 | [talk-to-slides: turns a talk recording into slide images, the text on each slide, and a short HTML report](https://github.com/LucasCooperBey/talk-to-slides) | Tool | Open | [X](https://x.com/i/status/2118738999456264540) · [Skool](https://www.skool.com/sandiegoaistudio/door-25-get-the-slides-from-any-recorded-talk) |
 | 26 | Turn a long YouTube video into a shorter listen<br><sub>Try it: Run yt-condense on one long video from your watch-later list and listen to what comes back.</sub> | June 9, 2026 | [yt-condense: give it a YouTube link and it hands back the video as spoken prose at about a fifth of the length, with or without captions](gifts/DAY-026-condense-prompt.md) | Tool | Open | [X](https://x.com/i/status/2120913350549021156) · [Skool](https://www.skool.com/sandiegoaistudio/door-26-turn-a-long-video-into-a-short-listen) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7526684017899970560/) |
 | 27 | Close every chat with a reason: twelve open chats became two<br><sub>Try it: Run python3 closeout.py list to see which recent chats are safe to close; it writes nothing until you run sweep.</sub> | June 11, 2026 | [closeout: one Python file that sorts your recent Claude Code chats into close, keep and merge, and writes a closing note for each](https://github.com/LucasCooperBey/close-with-a-reason) | Tool | Open | [X](https://x.com/i/status/2121049234799800373) · [Skool](https://www.skool.com/sandiegoaistudio/door-27-save-your-place-before-closing-an-ai-chat) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7526819913777332224/) |
+| 28 | Review with another model family: a second family asks differently<br><sub>Try it: Install the pre-push hook, set REVIEW_GATE_AUTHOR to the family that wrote the code (claude or codex), and push.</sub> | June 13, 2026 | [review-gate's cross-family mode: a reviewer from the other model family checks each push, and a REJECT blocks it](https://github.com/LucasCooperBey/review-gate) | Tool | Open | [X](https://x.com/i/status/2121275755573490038) · [Skool](https://www.skool.com/sandiegoaistudio/door-28-get-a-second-opinion-on-ai-written-code) |
 
 ## Gift types
 
@@ -83,7 +84,7 @@ Each door says what the thing was and when I made it. Most doors also leave you 
 
 New doors go up on [X](https://x.com/Lucface), in the [San Diego AI Studio Skool](https://www.skool.com/sandiegoaistudio) and on LinkedIn. This list grows with them.
 
-The machine today, on this Mac: 15 agents, 254 skills, 273 scheduled jobs, 191 that prove their work. Yesterday: 1,198 runs did work, 5,396 had no work, 506 could not; 91 coding-lane runs; 493 commits.
+The machine today, on this Mac: 15 agents, 254 skills, 277 scheduled jobs, 194 that prove their work. Yesterday: 1,406 runs did work, 5,434 had no work, 446 could not; 114 coding-lane runs; 872 commits.
 
 ## Follow with your agent
 

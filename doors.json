@@ -183,6 +183,13 @@
       "title": "Close every chat with a reason: twelve open chats became two",
       "gift_link": "https://github.com/LucasCooperBey/close-with-a-reason",
       "room": 3
+    },
+    {
+      "day": 28,
+      "date": "2026-11-13",
+      "title": "Review with another model family: a second family asks differently",
+      "gift_link": "https://github.com/LucasCooperBey/review-gate",
+      "room": 3
     }
   ]
 }
