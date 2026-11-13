@@ -1,181 +1,188 @@
 {
- "series": "100 Doors to Recursion",
- "index": "https://github.com/LucasCooperBey/100-doors",
- "doors": [
-  {
-   "day": 1,
-   "date": "2026-10-13",
-   "title": "RobotTales: bedtime stories where robot siblings teach if/else, loops and variables",
-   "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-001-bedtime-story-prompt.md",
-   "room": 1
-  },
-  {
-   "day": 2,
-   "date": "2026-10-14",
-   "title": "WebPerformanceToolkit: my first app in git, and its 33 hours of simulated scores",
-   "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/FIRST-PROMPT-TEMPLATE.md",
-   "room": 1
-  },
-  {
-   "day": 3,
-   "date": "2026-10-15",
-   "title": "My CRM, started on Replit from two pasted documents",
-   "gift_link": "https://github.com/LucasCooperBey/dataguard",
-   "room": 1
-  },
-  {
-   "day": 4,
-   "date": "2026-10-16",
-   "title": "FriendForm: a form friends fill out from a link",
-   "gift_link": "https://github.com/LucasCooperBey/friendform",
-   "room": 1
-  },
-  {
-   "day": 5,
-   "date": "2026-10-17",
-   "title": "treehouse: a git worktree pool for running several coding agents side by side",
-   "gift_link": "https://github.com/LucasCooperBey/treehouse",
-   "room": 1
-  },
-  {
-   "day": 6,
-   "date": "2026-10-18",
-   "title": "My Claude Code config, and the ramp: a 53-second first session in May, then 146 sessions from November 8 to December 11",
-   "gift_link": "https://github.com/SanDiegoAIStudio/claude-config-public",
-   "room": 1
-  },
-  {
-   "day": 7,
-   "date": "2026-10-19",
-   "title": "The perfection pass: ask for two critique passes before you look",
-   "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/pp2p",
-   "room": 1
-  },
-  {
-   "day": 8,
-   "date": "2026-10-20",
-   "title": "The changelog that becomes content",
-   "gift_link": "https://github.com/SanDiegoAIStudio/changelog-digest",
-   "room": 1
-  },
-  {
-   "day": 9,
-   "date": "2026-10-21",
-   "title": "block-destructive: a Claude Code hook that stops destructive shell commands before the agent runs them",
-   "gift_link": "https://github.com/LucasCooperBey/block-destructive",
-   "room": 1
-  },
-  {
-   "day": 10,
-   "date": "2026-10-22",
-   "title": "Ecosystem MCP: research npm packages from inside Claude Code",
-   "gift_link": "https://github.com/SanDiegoAIStudio/ecosystem-mcp",
-   "room": 1
-  },
-  {
-   "day": 11,
-   "date": "2026-10-23",
-   "title": "TabMap: why 200 tabs are open",
-   "gift_link": "https://github.com/LucasCooperBey/tabmap",
-   "room": 2
-  },
-  {
-   "day": 12,
-   "date": "2026-10-24",
-   "title": "Hooks over reminders: checks on every agent edit",
-   "gift_link": "https://github.com/LucasCooperBey/harness-guard",
-   "room": 2
-  },
-  {
-   "day": 13,
-   "date": "2026-10-25",
-   "title": "Review gate: fresh eyes on every push",
-   "gift_link": "https://github.com/LucasCooperBey/review-gate",
-   "room": 2
-  },
-  {
-   "day": 14,
-   "date": "2026-10-26",
-   "title": "ShipGate: no leaked keys go public",
-   "gift_link": "https://github.com/LucasCooperBey/shipgate",
-   "room": 2
-  },
-  {
-   "day": 15,
-   "date": "2026-10-27",
-   "title": "Changelog Digest: your changelog becomes content",
-   "gift_link": "https://github.com/SanDiegoAIStudio/changelog-digest",
-   "room": 2
-  },
-  {
-   "day": 16,
-   "date": "2026-10-28",
-   "title": "CorpusSync: search what you already know",
-   "gift_link": "https://github.com/LucasCooperBey/corpussync",
-   "room": 2
-  },
-  {
-   "day": 17,
-   "date": "2026-10-29",
-   "title": "Blind Council: five models argue, one settles",
-   "gift_link": "https://github.com/LucasCooperBey/blind-council",
-   "room": 2
-  },
-  {
-   "day": 18,
-   "date": "2026-10-28",
-   "title": "The Spine Pattern: memory that never erases",
-   "gift_link": "https://github.com/LucasCooperBey/spine-pattern",
-   "room": 2
-  },
-  {
-   "day": 19,
-   "date": "2026-10-30",
-   "title": "Field Audit: grade your AI setup with receipts",
-   "gift_link": "https://github.com/LucasCooperBey/intelligent-os-field-audit",
-   "room": 2
-  },
-  {
-   "day": 20,
-   "date": "2026-10-30",
-   "title": "Precompact Protector: keep your place through a compaction",
-   "gift_link": "https://github.com/LucasCooperBey/precompact-protector",
-   "room": 2
-  },
-  {
-   "day": 21,
-   "date": "2026-11-01",
-   "title": "Remember why you decided: one dated note per decision",
-   "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-021-dated-decision-entry.md",
-   "room": 3
-  },
-  {
-   "day": 22,
-   "date": "2026-11-03",
-   "title": "Explain anything to anyone: one plain sentence first, the deep detail last",
-   "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/breakdown",
-   "room": 3
-  },
-  {
-   "day": 23,
-   "date": "2026-11-04",
-   "title": "Find the right AI tool fast: a hand-reviewed directory with honest pros and cons",
-   "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-023-hand-review-card.md",
-   "room": 3
-  },
-  {
-   "day": 25,
-   "date": "2026-11-06",
-   "title": "Get the slides from any recorded talk: what was shown and what was said, slide by slide",
-   "gift_link": "https://github.com/LucasCooperBey/talk-to-slides",
-   "room": 3
-  },
-  {
-   "day": 26,
-   "date": "2026-11-12",
-   "title": "Turn a long YouTube video into a shorter listen",
-   "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-026-condense-prompt.md",
-   "room": 3
-  }
- ]
+  "series": "100 Doors to Recursion",
+  "index": "https://github.com/LucasCooperBey/100-doors",
+  "doors": [
+    {
+      "day": 1,
+      "date": "2026-10-13",
+      "title": "RobotTales: bedtime stories where robot siblings teach if/else, loops and variables",
+      "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-001-bedtime-story-prompt.md",
+      "room": 1
+    },
+    {
+      "day": 2,
+      "date": "2026-10-14",
+      "title": "WebPerformanceToolkit: my first app in git, and its 33 hours of simulated scores",
+      "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/FIRST-PROMPT-TEMPLATE.md",
+      "room": 1
+    },
+    {
+      "day": 3,
+      "date": "2026-10-15",
+      "title": "My CRM, started on Replit from two pasted documents",
+      "gift_link": "https://github.com/LucasCooperBey/dataguard",
+      "room": 1
+    },
+    {
+      "day": 4,
+      "date": "2026-10-16",
+      "title": "FriendForm: a form friends fill out from a link",
+      "gift_link": "https://github.com/LucasCooperBey/friendform",
+      "room": 1
+    },
+    {
+      "day": 5,
+      "date": "2026-10-18",
+      "title": "treehouse: a git worktree pool for running several coding agents side by side",
+      "gift_link": "https://github.com/LucasCooperBey/treehouse",
+      "room": 1
+    },
+    {
+      "day": 6,
+      "date": "2026-10-18",
+      "title": "My Claude Code config, and the ramp: a 53-second first session in May, then 146 sessions from November 8 to December 11",
+      "gift_link": "https://github.com/SanDiegoAIStudio/claude-config-public",
+      "room": 1
+    },
+    {
+      "day": 7,
+      "date": "2026-10-19",
+      "title": "The perfection pass: ask for two critique passes before you look",
+      "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/pp2p",
+      "room": 1
+    },
+    {
+      "day": 8,
+      "date": "2026-10-20",
+      "title": "The changelog that becomes content",
+      "gift_link": "https://github.com/SanDiegoAIStudio/changelog-digest",
+      "room": 1
+    },
+    {
+      "day": 9,
+      "date": "2026-10-21",
+      "title": "block-destructive: a Claude Code hook that stops destructive shell commands before the agent runs them",
+      "gift_link": "https://github.com/LucasCooperBey/block-destructive",
+      "room": 1
+    },
+    {
+      "day": 10,
+      "date": "2026-10-22",
+      "title": "Ecosystem MCP: research npm packages from inside Claude Code",
+      "gift_link": "https://github.com/SanDiegoAIStudio/ecosystem-mcp",
+      "room": 1
+    },
+    {
+      "day": 11,
+      "date": "2026-10-23",
+      "title": "TabMap: why 200 tabs are open",
+      "gift_link": "https://github.com/LucasCooperBey/tabmap",
+      "room": 2
+    },
+    {
+      "day": 12,
+      "date": "2026-10-24",
+      "title": "Hooks over reminders: checks on every agent edit",
+      "gift_link": "https://github.com/LucasCooperBey/harness-guard",
+      "room": 2
+    },
+    {
+      "day": 13,
+      "date": "2026-10-25",
+      "title": "Review gate: fresh eyes on every push",
+      "gift_link": "https://github.com/LucasCooperBey/review-gate",
+      "room": 2
+    },
+    {
+      "day": 14,
+      "date": "2026-10-26",
+      "title": "ShipGate: no leaked keys go public",
+      "gift_link": "https://github.com/LucasCooperBey/shipgate",
+      "room": 2
+    },
+    {
+      "day": 15,
+      "date": "2026-10-27",
+      "title": "Changelog Digest: your changelog becomes content",
+      "gift_link": "https://github.com/SanDiegoAIStudio/changelog-digest",
+      "room": 2
+    },
+    {
+      "day": 16,
+      "date": "2026-10-28",
+      "title": "CorpusSync: search what you already know",
+      "gift_link": "https://github.com/LucasCooperBey/corpussync",
+      "room": 2
+    },
+    {
+      "day": 17,
+      "date": "2026-10-29",
+      "title": "Blind Council: five models argue, one settles",
+      "gift_link": "https://github.com/LucasCooperBey/blind-council",
+      "room": 2
+    },
+    {
+      "day": 18,
+      "date": "2026-10-28",
+      "title": "The Spine Pattern: memory that never erases",
+      "gift_link": "https://github.com/LucasCooperBey/spine-pattern",
+      "room": 2
+    },
+    {
+      "day": 19,
+      "date": "2026-10-30",
+      "title": "Field Audit: grade your AI setup with receipts",
+      "gift_link": "https://github.com/LucasCooperBey/intelligent-os-field-audit",
+      "room": 2
+    },
+    {
+      "day": 20,
+      "date": "2026-10-30",
+      "title": "Precompact Protector: keep your place through a compaction",
+      "gift_link": "https://github.com/LucasCooperBey/precompact-protector",
+      "room": 2
+    },
+    {
+      "day": 21,
+      "date": "2026-11-01",
+      "title": "Remember why you decided: one dated note per decision",
+      "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-021-dated-decision-entry.md",
+      "room": 3
+    },
+    {
+      "day": 22,
+      "date": "2026-11-03",
+      "title": "Explain anything to anyone: one plain sentence first, the deep detail last",
+      "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/breakdown",
+      "room": 3
+    },
+    {
+      "day": 23,
+      "date": "2026-11-04",
+      "title": "Find the right AI tool fast: a hand-reviewed directory with honest pros and cons",
+      "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-023-hand-review-card.md",
+      "room": 3
+    },
+    {
+      "day": 25,
+      "date": "2026-11-06",
+      "title": "Get the slides from any recorded talk: what was shown and what was said, slide by slide",
+      "gift_link": "https://github.com/LucasCooperBey/talk-to-slides",
+      "room": 3
+    },
+    {
+      "day": 26,
+      "date": "2026-11-12",
+      "title": "Turn a long YouTube video into a shorter listen",
+      "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-026-condense-prompt.md",
+      "room": 3
+    },
+    {
+      "day": 27,
+      "date": "2026-11-12",
+      "title": "Close every chat with a reason: twelve open chats became two",
+      "gift_link": "https://github.com/LucasCooperBey/close-with-a-reason",
+      "room": 3
+    }
+  ]
 }

@@ -339,6 +339,193 @@
         "scheduled_jobs": 253,
         "skills": 254
       }
+    },
+    {
+      "date": "2026-11-02",
+      "day": 21,
+      "values": {
+        "agents": 14,
+        "commits": 493,
+        "could_not": 522,
+        "did_work": 957,
+        "doors_opened": 20,
+        "gifts_released": 19,
+        "lane_runs": 8,
+        "no_work": 3679,
+        "proven_jobs": 164,
+        "scheduled_jobs": 253,
+        "skills": 254
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "day": 22,
+      "values": {
+        "agents": 14,
+        "commits": 335,
+        "could_not": 414,
+        "did_work": 1030,
+        "doors_opened": 20,
+        "gifts_released": 19,
+        "lane_runs": 30,
+        "no_work": 4235,
+        "proven_jobs": 167,
+        "scheduled_jobs": 255,
+        "skills": 254
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "day": 23,
+      "values": {
+        "agents": 14,
+        "commits": 561,
+        "could_not": 277,
+        "did_work": 1172,
+        "doors_opened": 20,
+        "gifts_released": 19,
+        "lane_runs": 18,
+        "no_work": 4353,
+        "proven_jobs": 170,
+        "scheduled_jobs": 258,
+        "skills": 254
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "day": 24,
+      "values": {
+        "agents": 14,
+        "commits": 607,
+        "could_not": 510,
+        "did_work": 1287,
+        "doors_opened": 20,
+        "gifts_released": 19,
+        "lane_runs": 71,
+        "no_work": 3575,
+        "proven_jobs": 171,
+        "scheduled_jobs": 258,
+        "skills": 254
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "day": 25,
+      "values": {
+        "agents": 14,
+        "commits": 467,
+        "could_not": 238,
+        "did_work": 1361,
+        "doors_opened": 20,
+        "gifts_released": 19,
+        "lane_runs": 28,
+        "no_work": 4312,
+        "proven_jobs": 175,
+        "scheduled_jobs": 263,
+        "skills": 254
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "day": 26,
+      "values": {
+        "agents": 14,
+        "commits": 144,
+        "could_not": 679,
+        "did_work": 1096,
+        "doors_opened": 20,
+        "gifts_released": 19,
+        "lane_runs": 0,
+        "no_work": 4522,
+        "proven_jobs": 175,
+        "scheduled_jobs": 263,
+        "skills": 254
+      }
+    },
+    {
+      "date": "2026-11-08",
+      "day": 27,
+      "values": {
+        "agents": 14,
+        "commits": 55,
+        "could_not": 523,
+        "did_work": 1109,
+        "doors_opened": 20,
+        "gifts_released": 19,
+        "lane_runs": 0,
+        "no_work": 6138,
+        "proven_jobs": 175,
+        "scheduled_jobs": 264,
+        "skills": 254
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "day": 28,
+      "values": {
+        "agents": 14,
+        "commits": 208,
+        "could_not": 455,
+        "did_work": 1032,
+        "doors_opened": 20,
+        "gifts_released": 19,
+        "lane_runs": 16,
+        "no_work": 6377,
+        "proven_jobs": 180,
+        "scheduled_jobs": 266,
+        "skills": 254
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "day": 29,
+      "values": {
+        "agents": 14,
+        "commits": 194,
+        "could_not": 474,
+        "did_work": 1249,
+        "doors_opened": 20,
+        "gifts_released": 19,
+        "lane_runs": 3,
+        "no_work": 5735,
+        "proven_jobs": 181,
+        "scheduled_jobs": 267,
+        "skills": 254
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "day": 30,
+      "values": {
+        "agents": 15,
+        "commits": 305,
+        "could_not": 520,
+        "did_work": 1501,
+        "doors_opened": 20,
+        "gifts_released": 19,
+        "lane_runs": 23,
+        "no_work": 5426,
+        "proven_jobs": 182,
+        "scheduled_jobs": 268,
+        "skills": 254
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "day": 31,
+      "values": {
+        "agents": 15,
+        "commits": 493,
+        "could_not": 506,
+        "did_work": 1198,
+        "doors_opened": 20,
+        "gifts_released": 19,
+        "lane_runs": 91,
+        "no_work": 5396,
+        "proven_jobs": 191,
+        "scheduled_jobs": 273,
+        "skills": 254
+      }
     }
   ],
   "first_day": "2026-10-13",

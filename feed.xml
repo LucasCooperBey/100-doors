@@ -6,11 +6,18 @@
 <language>en-us</language>
 <lastBuildDate>Thu, 12 Nov 2026 08:00:00 -0800</lastBuildDate>
 <item>
+<title>Door 27: Close every chat with a reason: twelve open chats became two</title>
+<link>https://github.com/LucasCooperBey/close-with-a-reason</link>
+<guid isPermaLink="false">100-doors-day-27</guid>
+<pubDate>Thu, 12 Nov 2026 08:00:00 -0800</pubDate>
+<description>closeout: one Python file that sorts your recent Claude Code chats into close, keep and merge, and writes a closing note for each. Something to try: Run python3 closeout.py list to see which recent chats are safe to close; it writes nothing until you run sweep.</description>
+</item>
+<item>
 <title>Door 26: Turn a long YouTube video into a shorter listen</title>
 <link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-026-condense-prompt.md</link>
 <guid isPermaLink="false">100-doors-day-26</guid>
 <pubDate>Thu, 12 Nov 2026 08:00:00 -0800</pubDate>
-<description>The condense prompt, word for word, with four steps to run it in any chat, two ways to change it and its limits. Something to try: Pick one long video on your watch-later list, run its transcript through the prompt, and listen to the result.</description>
+<description>yt-condense: give it a YouTube link and it hands back the video as spoken prose at about a fifth of the length, with or without captions. Something to try: Run yt-condense on one long video from your watch-later list and listen to what comes back.</description>
 </item>
 <item>
 <title>Door 25: Get the slides from any recorded talk: what was shown and what was said, slide by slide</title>
@@ -31,7 +38,7 @@
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/breakdown</link>
 <guid isPermaLink="false">100-doors-day-22</guid>
 <pubDate>Tue, 03 Nov 2026 08:00:00 -0800</pubDate>
-<description>The breakdown skill: one plain sentence first, then sections at 100,000, 50,000, 30,000 and 10,000 feet, each readable on its own. Something to try: Drop the folder into your Claude Code skills and say &quot;break it down&quot;.</description>
+<description>The breakdown skill: one plain sentence first, then sections at 100,000, 50,000, 30,000 and 10,000 feet, each readable on its own. Something to try: Drop the folder into your Claude Code skills and say "break it down".</description>
 </item>
 <item>
 <title>Door 21: Remember why you decided: one dated note per decision</title>
@@ -149,7 +156,7 @@
 <title>Door 5: treehouse: a git worktree pool for running several coding agents side by side</title>
 <link>https://github.com/LucasCooperBey/treehouse</link>
 <guid isPermaLink="false">100-doors-day-5</guid>
-<pubDate>Sat, 17 Oct 2026 08:00:00 -0700</pubDate>
+<pubDate>Sun, 18 Oct 2026 08:00:00 -0700</pubDate>
 <description>treehouse, one bash file that needs only git: spin a worktree per agent, glance at which are dirty on one screen, and sweep only the clean, merged ones. Something to try: Run treehouse spin 3, then treehouse glance.</description>
 </item>
 <item>
