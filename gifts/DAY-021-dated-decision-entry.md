@@ -50,7 +50,7 @@ replaces: [the date-name of an older entry this one overrides, or leave empty]
 ## What would make us change it
 ```
 
-### One filled in (made up)
+### Example: one filled in (made up)
 
 ```markdown
 ---
