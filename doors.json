@@ -190,6 +190,27 @@
       "title": "Review with another model family: a second family asks differently",
       "gift_link": "https://github.com/LucasCooperBey/review-gate",
       "room": 3
+    },
+    {
+      "day": 29,
+      "date": "2026-11-13",
+      "title": "Make an AI draft sound like you: check the facts and cut wording you would not say",
+      "gift_link": "https://github.com/LucasCooperBey/writing-check",
+      "room": 3
+    },
+    {
+      "day": 30,
+      "date": "2026-11-13",
+      "title": "Block risky commands before an AI runs them: safety checks for Claude Code, with limits",
+      "gift_link": "https://github.com/LucasCooperBey/harness-guard",
+      "room": 3
+    },
+    {
+      "day": 31,
+      "date": "2026-11-14",
+      "title": "I like listening to my agent's replies: hear an action-first summary instead of reading it all",
+      "gift_link": "https://github.com/LucasCooperBey/earshot",
+      "room": 4
     }
   ]
 }

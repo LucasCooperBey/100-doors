@@ -4,7 +4,28 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>100 doors into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 13 Nov 2026 08:00:00 -0800</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 08:00:00 -0800</lastBuildDate>
+<item>
+<title>Door 31: I like listening to my agent's replies: hear an action-first summary instead of reading it all</title>
+<link>https://github.com/LucasCooperBey/earshot</link>
+<guid isPermaLink="false">100-doors-day-31</guid>
+<pubDate>Sat, 14 Nov 2026 08:00:00 -0800</pubDate>
+<description>earshot: turns the last agent reply into a short spoken summary, action first, using Ollama and a local model on your machine. Something to try: After a long agent reply, run earshot, or type /. in Claude Code, and listen for the action first.</description>
+</item>
+<item>
+<title>Door 30: Block risky commands before an AI runs them: safety checks for Claude Code, with limits</title>
+<link>https://github.com/LucasCooperBey/harness-guard</link>
+<guid isPermaLink="false">100-doors-day-30</guid>
+<pubDate>Fri, 13 Nov 2026 17:15:00 -0800</pubDate>
+<description>harness-guard: eight Claude Code hooks that refuse risky agent turns, including destructive commands, force pushes to main, secrets leaving the machine, and edits that weaken your linter. Something to try: Run ./install.sh, merge the hooks block from settings.example.json into ~/.claude/settings.json, and restart Claude Code.</description>
+</item>
+<item>
+<title>Door 29: Make an AI draft sound like you: check the facts and cut wording you would not say</title>
+<link>https://github.com/LucasCooperBey/writing-check</link>
+<guid isPermaLink="false">100-doors-day-29</guid>
+<pubDate>Fri, 13 Nov 2026 12:15:00 -0800</pubDate>
+<description>writing-check: one Python file that lists the phrases that make a draft read as machine-written, each with its line and the rule behind it. Something to try: Run python3 writing_check.py draft.md on a draft you are about to post.</description>
+</item>
 <item>
 <title>Door 28: Review with another model family: a second family asks differently</title>
 <link>https://github.com/LucasCooperBey/review-gate</link>
