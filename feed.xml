@@ -4,7 +4,21 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>100 doors into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 14 Nov 2026 08:00:00 -0800</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 08:15:00 -0800</lastBuildDate>
+<item>
+<title>Door 33: I check a claim before I share it: separate what the sources support from what they don't</title>
+<link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/adversarial-research</link>
+<guid isPermaLink="false">100-doors-day-33</guid>
+<pubDate>Thu, 19 Nov 2026 08:15:00 -0800</pubDate>
+<description>adversarial-research: a Claude Code skill that sends separate verifier agents after each claim and sorts what the sources support from what they don't. Something to try: Copy the adversarial-research skill into ~/.claude/skills, then ask Claude Code to use it on a draft and extract the claims first.</description>
+</item>
+<item>
+<title>Door 32: I look for duplicates in my AI setup: a ranked list of overlaps and conflicts</title>
+<link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/ecosystem-audit</link>
+<guid isPermaLink="false">100-doors-day-32</guid>
+<pubDate>Wed, 18 Nov 2026 18:38:00 -0800</pubDate>
+<description>ecosystem-audit: a Claude Code skill that reviews your .claude setup and returns a ranked list of overlaps and conflicts, and deletes nothing. Something to try: Copy the ecosystem-audit skill into ~/.claude/skills, then ask Claude Code to use it and run the inventory first.</description>
+</item>
 <item>
 <title>Door 31: I like listening to my agent's replies: hear an action-first summary instead of reading it all</title>
 <link>https://github.com/LucasCooperBey/earshot</link>

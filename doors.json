@@ -211,6 +211,20 @@
       "title": "I like listening to my agent's replies: hear an action-first summary instead of reading it all",
       "gift_link": "https://github.com/LucasCooperBey/earshot",
       "room": 4
+    },
+    {
+      "day": 32,
+      "date": "2026-11-18",
+      "title": "I look for duplicates in my AI setup: a ranked list of overlaps and conflicts",
+      "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/ecosystem-audit",
+      "room": 4
+    },
+    {
+      "day": 33,
+      "date": "2026-11-19",
+      "title": "I check a claim before I share it: separate what the sources support from what they don't",
+      "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/adversarial-research",
+      "room": 4
     }
   ]
 }
