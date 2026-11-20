@@ -4,7 +4,14 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>100 doors into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 19 Nov 2026 17:15:00 -0800</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 08:18:00 -0800</lastBuildDate>
+<item>
+<title>Door 36: I like to keep the notes my AI forgets: save working notes to a file your session can read back</title>
+<link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/scratchpad</link>
+<guid isPermaLink="false">100-doors-day-36</guid>
+<pubDate>Fri, 20 Nov 2026 08:18:00 -0800</pubDate>
+<description>scratchpad: a Claude Code skill that saves working notes to a file when you ask, so a later session can read them back. Something to try: Copy the scratchpad skill into ~/.claude/skills, then type /scratchpad and the note you want saved.</description>
+</item>
 <item>
 <title>Door 35: I check my prompts against facts: match a prompt's claims to your real files, then rewrite it</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/prompt-grounding</link>

@@ -239,6 +239,13 @@
       "title": "I check my prompts against facts: match a prompt's claims to your real files, then rewrite it",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/prompt-grounding",
       "room": 4
+    },
+    {
+      "day": 36,
+      "date": "2026-11-20",
+      "title": "I like to keep the notes my AI forgets: save working notes to a file your session can read back",
+      "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/scratchpad",
+      "room": 4
     }
   ]
 }
