@@ -4,7 +4,21 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>100 doors into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 19 Nov 2026 08:15:00 -0800</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 17:15:00 -0800</lastBuildDate>
+<item>
+<title>Door 35: I check my prompts against facts: match a prompt's claims to your real files, then rewrite it</title>
+<link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/prompt-grounding</link>
+<guid isPermaLink="false">100-doors-day-35</guid>
+<pubDate>Thu, 19 Nov 2026 17:15:00 -0800</pubDate>
+<description>prompt-grounding: a Claude Code skill that checks a prompt's claims against your actual project files, then rewrites the ask. Something to try: Copy the prompt-grounding skill into ~/.claude/skills, save the prompt as prompt.txt in your project, and ask Claude Code to use the skill on it.</description>
+</item>
+<item>
+<title>Door 34: I look for a tool before I build one: find existing solutions and compare their fit first</title>
+<link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/deep-recon</link>
+<guid isPermaLink="false">100-doors-day-34</guid>
+<pubDate>Thu, 19 Nov 2026 12:15:00 -0800</pubDate>
+<description>deep-recon: a Claude Code skill that searches for existing solutions and compares how well each one fits before you build. Something to try: Copy the deep-recon skill into ~/.claude/skills, then type /deep-recon and the problem in one line, with one search round per agent.</description>
+</item>
 <item>
 <title>Door 33: I check a claim before I share it: separate what the sources support from what they don't</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/adversarial-research</link>
