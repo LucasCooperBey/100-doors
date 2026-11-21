@@ -246,6 +246,13 @@
       "title": "I like to keep the notes my AI forgets: save working notes to a file your session can read back",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/scratchpad",
       "room": 4
+    },
+    {
+      "day": 37,
+      "date": "2026-11-20",
+      "title": "I check what's crowding my AI chat: estimate the space tools and instructions take",
+      "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/context-budget",
+      "room": 4
     }
   ]
 }

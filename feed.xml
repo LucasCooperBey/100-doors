@@ -4,7 +4,14 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>100 doors into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 20 Nov 2026 08:18:00 -0800</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 17:15:00 -0800</lastBuildDate>
+<item>
+<title>Door 37: I check what's crowding my AI chat: estimate the space tools and instructions take</title>
+<link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/context-budget</link>
+<guid isPermaLink="false">100-doors-day-37</guid>
+<pubDate>Fri, 20 Nov 2026 17:15:00 -0800</pubDate>
+<description>context-budget: a Claude Code skill that estimates the tokens your skills, agents, MCP tools, rules and hooks load, so you can see what to switch off. Something to try: Copy the context-budget skill into ~/.claude/skills, then ask Claude Code to use it to audit your setup.</description>
+</item>
 <item>
 <title>Door 36: I like to keep the notes my AI forgets: save working notes to a file your session can read back</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/scratchpad</link>
