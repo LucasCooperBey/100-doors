@@ -253,6 +253,27 @@
       "title": "I check what's crowding my AI chat: estimate the space tools and instructions take",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/context-budget",
       "room": 4
+    },
+    {
+      "day": 39,
+      "date": "2026-11-21",
+      "title": "I hold my page up to the design: compare a screenshot with its reference and get specific fixes",
+      "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/visual-verdict",
+      "room": 4
+    },
+    {
+      "day": 40,
+      "date": "2026-11-21",
+      "title": "I want PDFs that print cleanly: reusable patterns for page breaks, images and print layouts",
+      "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/pdf-generation",
+      "room": 4
+    },
+    {
+      "day": 41,
+      "date": "2026-11-22",
+      "title": "I pick the app worth finishing next: list every project, mark what actually works, and choose one useful next step",
+      "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/list-every-app.md",
+      "room": 5
     }
   ]
 }
