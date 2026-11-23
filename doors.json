@@ -274,6 +274,20 @@
       "title": "I pick the app worth finishing next: list every project, mark what actually works, and choose one useful next step",
       "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/list-every-app.md",
       "room": 5
+    },
+    {
+      "day": 42,
+      "date": "2026-11-22",
+      "title": "I set spending limits on my AI tools: list each paid tool, check its cap, and write down what actually happens when you hit the limit",
+      "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/spending-limit-checklist.md",
+      "room": 5
+    },
+    {
+      "day": 43,
+      "date": "2026-11-23",
+      "title": "I like hearing what people remember from a song: a spoken check-in that asks what stuck and compares it with the song brief",
+      "gift_link": "https://github.com/LucasCooperBey/banger-recall",
+      "room": 5
     }
   ]
 }

@@ -4,7 +4,21 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>100 doors into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 22 Nov 2026 08:15:00 -0800</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 08:15:00 -0800</lastBuildDate>
+<item>
+<title>Door 43: I like hearing what people remember from a song: a spoken check-in that asks what stuck and compares it with the song brief</title>
+<link>https://github.com/LucasCooperBey/banger-recall</link>
+<guid isPermaLink="false">100-doors-day-43</guid>
+<pubDate>Mon, 23 Nov 2026 08:15:00 -0800</pubDate>
+<description>banger-recall: a spoken check-in that asks what stuck from a song and compares it with the song brief. Live scoring needs an API key; sample replays run without one. Something to try: Clone LucasCooperBey/banger-recall and run a sample replay with no API key. Live scoring needs an API key.</description>
+</item>
+<item>
+<title>Door 42: I set spending limits on my AI tools: list each paid tool, check its cap, and write down what actually happens when you hit the limit</title>
+<link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/spending-limit-checklist.md</link>
+<guid isPermaLink="false">100-doors-day-42</guid>
+<pubDate>Sun, 22 Nov 2026 17:15:00 -0800</pubDate>
+<description>spending-limit-checklist: a written checklist. List each paid tool, check its cap, and write down what actually happens when you hit the limit. Something to try: Open the gift file and walk through the list for each paid AI tool: the cap, the alert, and what happens at the limit.</description>
+</item>
 <item>
 <title>Door 41: I pick the app worth finishing next: list every project, mark what actually works, and choose one useful next step</title>
 <link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/list-every-app.md</link>
