@@ -4,7 +4,21 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>100 doors into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 23 Nov 2026 08:15:00 -0800</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 08:15:00 -0800</lastBuildDate>
+<item>
+<title>Door 45: I ask what the task left behind: a skill you run after a task that lists real follow-ups and reports nothing when nothing genuine came up</title>
+<link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/whatdidimiss</link>
+<guid isPermaLink="false">100-doors-day-45</guid>
+<pubDate>Tue, 24 Nov 2026 08:15:00 -0800</pubDate>
+<description>whatdidimiss: a skill you run after a task. It lists real follow-ups and reports nothing when nothing genuine came up. Something to try: Clone LucasCooperBey/claude-skills, copy skills/whatdidimiss into ~/.claude/skills, then run it after a task.</description>
+</item>
+<item>
+<title>Door 44: I ask how my app could be misused before someone else finds out: a skill that traces risks through the actual code, with file and line evidence</title>
+<link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/threat-model</link>
+<guid isPermaLink="false">100-doors-day-44</guid>
+<pubDate>Mon, 23 Nov 2026 17:15:00 -0800</pubDate>
+<description>threat-model: traces risks through your actual code with file and line evidence. It documents risks and does not certify an app secure. Adapted from OpenAI's security-threat-model skill, Apache-2.0 licensed. Something to try: Clone LucasCooperBey/claude-skills, copy skills/threat-model into ~/.claude/skills, then point it at a repository you want modeled.</description>
+</item>
 <item>
 <title>Door 43: I like hearing what people remember from a song: a spoken check-in that asks what stuck and compares it with the song brief</title>
 <link>https://github.com/LucasCooperBey/banger-recall</link>

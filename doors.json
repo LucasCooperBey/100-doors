@@ -288,6 +288,20 @@
       "title": "I like hearing what people remember from a song: a spoken check-in that asks what stuck and compares it with the song brief",
       "gift_link": "https://github.com/LucasCooperBey/banger-recall",
       "room": 5
+    },
+    {
+      "day": 44,
+      "date": "2026-11-23",
+      "title": "I ask how my app could be misused before someone else finds out: a skill that traces risks through the actual code, with file and line evidence",
+      "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/threat-model",
+      "room": 5
+    },
+    {
+      "day": 45,
+      "date": "2026-11-24",
+      "title": "I ask what the task left behind: a skill you run after a task that lists real follow-ups and reports nothing when nothing genuine came up",
+      "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/whatdidimiss",
+      "room": 5
     }
   ]
 }
