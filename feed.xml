@@ -4,7 +4,21 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>100 doors into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 24 Nov 2026 08:15:00 -0800</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 08:15:00 -0800</lastBuildDate>
+<item>
+<title>Door 47: I skip a scheduled job while a limit holds: a wrapped job skips until the reset the tool reads in the notice, or for a window of hours when it reads none</title>
+<link>https://github.com/SanDiegoAIStudio/max-pool-governor</link>
+<guid isPermaLink="false">100-doors-day-47</guid>
+<pubDate>Wed, 25 Nov 2026 08:15:00 -0800</pubDate>
+<description>max-pool-governor: a small Python program that records a usage limit notice so a wrapped job skips until the reset, or for a window of hours when the notice states none. Something to try: Clone SanDiegoAIStudio/max-pool-governor, run the tests, then MAX_POOL_STATE_DIR=$(mktemp -d) sh examples/nightly.sh</description>
+</item>
+<item>
+<title>Door 46: I click a button instead of typing a command: a small server for your own machine. Buttons on a page you open from disk run commands from a list you wrote, and nothing else</title>
+<link>https://github.com/SanDiegoAIStudio/tap-server</link>
+<guid isPermaLink="false">100-doors-day-46</guid>
+<pubDate>Tue, 24 Nov 2026 19:01:00 -0800</pubDate>
+<description>tap-server: a small server for your own machine. Buttons on a page you open from disk run commands from a list you wrote, and nothing else. Something to try: Clone SanDiegoAIStudio/tap-server, run the tests, copy the example command list, start the server, and open demo.html from the same folder.</description>
+</item>
 <item>
 <title>Door 45: I ask what the task left behind: a skill you run after a task that lists real follow-ups and reports nothing when nothing genuine came up</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/whatdidimiss</link>

@@ -302,6 +302,20 @@
       "title": "I ask what the task left behind: a skill you run after a task that lists real follow-ups and reports nothing when nothing genuine came up",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/whatdidimiss",
       "room": 5
+    },
+    {
+      "day": 46,
+      "date": "2026-11-24",
+      "title": "I click a button instead of typing a command: a small server for your own machine. Buttons on a page you open from disk run commands from a list you wrote, and nothing else",
+      "gift_link": "https://github.com/SanDiegoAIStudio/tap-server",
+      "room": 5
+    },
+    {
+      "day": 47,
+      "date": "2026-11-25",
+      "title": "I skip a scheduled job while a limit holds: a wrapped job skips until the reset the tool reads in the notice, or for a window of hours when it reads none",
+      "gift_link": "https://github.com/SanDiegoAIStudio/max-pool-governor",
+      "room": 5
     }
   ]
 }
