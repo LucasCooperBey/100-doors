@@ -4,7 +4,21 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>100 doors into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 25 Nov 2026 08:15:00 -0800</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 08:15:00 -0800</lastBuildDate>
+<item>
+<title>Door 49: I ask real models before I make the call: a Claude Code skill where each seat writes first, its model is read from the harness record, and dissent is kept by name</title>
+<link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/council</link>
+<guid isPermaLink="false">100-doors-day-49</guid>
+<pubDate>Thu, 26 Nov 2026 08:15:00 -0800</pubDate>
+<description>council: a Claude Code skill where each seat writes first, its model is read from the harness record, and dissent is kept by name. Something to try: Clone LucasCooperBey/claude-skills, copy skills/council into ~/.claude/skills, then ask Claude Code to run a council on an important, uncertain choice.</description>
+</item>
+<item>
+<title>Door 48: I get a message only when a target flips: a Cloudflare Worker that checks the addresses you list, records heartbeats, and sends a Telegram message only when one flips between up and down</title>
+<link>https://github.com/SanDiegoAIStudio/fleet-canary</link>
+<guid isPermaLink="false">100-doors-day-48</guid>
+<pubDate>Tue, 25 Nov 2026 17:15:00 -0800</pubDate>
+<description>fleet-canary: a Cloudflare Worker that checks the addresses you list, records heartbeats, and sends a Telegram message only when one flips between up and down. Something to try: Clone SanDiegoAIStudio/fleet-canary, run bun install, bun test and bun run typecheck, copy the example secrets, start the local server, and fire a scheduled check.</description>
+</item>
 <item>
 <title>Door 47: I skip a scheduled job while a limit holds: a wrapped job skips until the reset the tool reads in the notice, or for a window of hours when it reads none</title>
 <link>https://github.com/SanDiegoAIStudio/max-pool-governor</link>

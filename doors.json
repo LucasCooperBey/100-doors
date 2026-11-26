@@ -316,6 +316,20 @@
       "title": "I skip a scheduled job while a limit holds: a wrapped job skips until the reset the tool reads in the notice, or for a window of hours when it reads none",
       "gift_link": "https://github.com/SanDiegoAIStudio/max-pool-governor",
       "room": 5
+    },
+    {
+      "day": 48,
+      "date": "2026-11-25",
+      "title": "I get a message only when a target flips: a Cloudflare Worker that checks the addresses you list, records heartbeats, and sends a Telegram message only when one flips between up and down",
+      "gift_link": "https://github.com/SanDiegoAIStudio/fleet-canary",
+      "room": 5
+    },
+    {
+      "day": 49,
+      "date": "2026-11-26",
+      "title": "I ask real models before I make the call: a Claude Code skill where each seat writes first, its model is read from the harness record, and dissent is kept by name",
+      "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/council",
+      "room": 5
     }
   ]
 }
