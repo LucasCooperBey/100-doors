@@ -2,7 +2,7 @@
 
 - **Date:** November 24, 2026
 - **Built:** June 20, 2026
-- **Room:** Recursion (7 of 7)
+- **Room:** 5
 - **Gift:** [whatdidimiss](https://github.com/LucasCooperBey/claude-skills/tree/main/skills/whatdidimiss)
 
 ## What it is

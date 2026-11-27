@@ -2,7 +2,7 @@
 
 - **Date:** November 13, 2026
 - **Built:** June 20, 2026
-- **Room:** Checks (6 of 7)
+- **Room:** 3
 - **Gift:** [harness-guard](https://github.com/LucasCooperBey/harness-guard)
 
 ## What it is

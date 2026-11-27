@@ -2,7 +2,7 @@
 
 - **Date:** October 23, 2026
 - **Built:** December 30, 2025
-- **Room:** Capture (1 of 7)
+- **Room:** 2
 - **Code:** [LucasCooperBey/tabmap](https://github.com/LucasCooperBey/tabmap)
 
 ## What it is

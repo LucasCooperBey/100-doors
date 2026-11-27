@@ -2,7 +2,7 @@
 
 - **Date:** November 20, 2026
 - **Built:** June 21, 2026
-- **Room:** Memory (2 of 7)
+- **Room:** 4
 - **Gift:** [context-budget](https://github.com/LucasCooperBey/claude-skills/tree/main/skills/context-budget)
 
 ## What it is

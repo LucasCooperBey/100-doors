@@ -2,7 +2,7 @@
 
 - **Date:** November 19, 2026
 - **Built:** June 20, 2026
-- **Room:** Intent (3 of 7)
+- **Room:** 4
 - **Gift:** [prompt-grounding](https://github.com/LucasCooperBey/claude-skills/tree/main/skills/prompt-grounding)
 
 ## What it is

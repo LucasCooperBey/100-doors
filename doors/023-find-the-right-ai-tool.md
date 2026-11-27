@@ -2,7 +2,7 @@
 
 - **Date:** November 4, 2026
 - **Built:** May 30, 2026
-- **Room:** Tools (4 of 7)
+- **Room:** 3
 - **Gift:** [gifts/DAY-023-hand-review-card.md](https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-023-hand-review-card.md)
 - **Live site:** [directoryofagents.com](https://directoryofagents.com)
 

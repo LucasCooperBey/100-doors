@@ -2,7 +2,7 @@
 
 - **Date:** November 12, 2026
 - **Built:** June 9, 2026
-- **Room:** Capture (1 of 7)
+- **Room:** 3
 - **Gift:** [gifts/DAY-026-condense-prompt.md](https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-026-condense-prompt.md)
 
 ## What it is

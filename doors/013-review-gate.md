@@ -2,7 +2,7 @@
 
 - **Date:** October 25, 2026
 - **Built:** July 4, 2026
-- **Room:** Checks (6 of 7)
+- **Room:** 2
 - **Code:** [LucasCooperBey/review-gate](https://github.com/LucasCooperBey/review-gate)
 
 ## What it is

@@ -2,7 +2,7 @@
 
 - **Date:** November 26, 2026
 - **Built:** November 17, 2026
-- **Room:** Tools (4 of 7)
+- **Room:** 5
 - **Gift:** [opensource](https://github.com/LucasCooperBey/claude-skills/tree/main/skills/opensource)
 
 ## What it is

@@ -2,7 +2,7 @@
 
 - **Date:** November 13, 2026
 - **Built:** November 12, 2026
-- **Room:** Checks (6 of 7)
+- **Room:** 3
 - **Gift:** [writing-check](https://github.com/LucasCooperBey/writing-check)
 
 ## What it is

@@ -2,7 +2,7 @@
 
 - **Date:** November 26, 2026
 - **Built:** November 16, 2026
-- **Room:** Agents (5 of 7)
+- **Room:** 5
 - **Gift:** [council](https://github.com/LucasCooperBey/claude-skills/tree/main/skills/council)
 
 ## What it is

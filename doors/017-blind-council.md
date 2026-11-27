@@ -2,7 +2,7 @@
 
 - **Date:** October 29, 2026
 - **Built:** July 9, 2026
-- **Room:** Agents (5 of 7)
+- **Room:** 2
 - **Code:** [LucasCooperBey/blind-council](https://github.com/LucasCooperBey/blind-council)
 
 ## What it is

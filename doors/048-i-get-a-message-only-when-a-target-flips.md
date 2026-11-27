@@ -2,7 +2,7 @@
 
 - **Date:** November 25, 2026
 - **Built:** November 13, 2026
-- **Room:** Agents (5 of 7)
+- **Room:** 5
 - **Gift:** [fleet-canary](https://github.com/SanDiegoAIStudio/fleet-canary)
 
 ## What it is

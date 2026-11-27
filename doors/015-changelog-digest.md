@@ -2,7 +2,7 @@
 
 - **Date:** October 27, 2026
 - **Built:** December 4, 2025
-- **Room:** Recursion (7 of 7)
+- **Room:** 2
 - **Code:** [SanDiegoAIStudio/changelog-digest](https://github.com/SanDiegoAIStudio/changelog-digest)
 
 ## What it is

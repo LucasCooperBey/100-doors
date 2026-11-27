@@ -2,7 +2,7 @@
 
 - **Date:** November 23, 2026
 - **Built:** June 20, 2026
-- **Room:** Checks (6 of 7)
+- **Room:** 5
 - **Gift:** [threat-model](https://github.com/LucasCooperBey/claude-skills/tree/main/skills/threat-model)
 
 ## What it is

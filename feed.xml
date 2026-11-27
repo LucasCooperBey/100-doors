@@ -9,7 +9,6 @@
 <title>Door 51: I run four scans from one workflow line: a GitHub Actions workflow that runs a dependency audit, CodeQL, a secret scan and a container scan from one uses line</title>
 <link>https://github.com/SanDiegoAIStudio/security-scan-workflow</link>
 <guid isPermaLink="false">100-doors-day-51</guid>
-<category>Checks</category>
 <pubDate>Fri, 27 Nov 2026 08:15:00 -0800</pubDate>
 <description>security-scan-workflow: a reusable GitHub Actions workflow that can run a dependency audit, CodeQL, a secret scan and a container scan from one uses line. Something to try: Clone SanDiegoAIStudio/security-scan-workflow and copy the job in examples/caller.yml into a workflow in your GitHub repository.</description>
 </item>
@@ -17,7 +16,6 @@
 <title>Door 50: I give one tool a repository of its own: a Claude Code skill that runs five yes-or-no checks, scrubs the copy, searches the files, and starts out private</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/opensource</link>
 <guid isPermaLink="false">100-doors-day-50</guid>
-<category>Tools</category>
 <pubDate>Thu, 26 Nov 2026 17:25:00 -0800</pubDate>
 <description>opensource: a Claude Code skill that runs five yes-or-no checks, scrubs a copied tool, searches the files, and goes public only on your yes. Something to try: Clone LucasCooperBey/claude-skills, copy skills/opensource into ~/.claude/skills, then run the sample leak search and scrub from the skill folder.</description>
 </item>
@@ -25,7 +23,6 @@
 <title>Door 49: I ask real models before I make the call: a Claude Code skill where each seat writes first, its model is read from the harness record, and dissent is kept by name</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/council</link>
 <guid isPermaLink="false">100-doors-day-49</guid>
-<category>Agents</category>
 <pubDate>Thu, 26 Nov 2026 08:15:00 -0800</pubDate>
 <description>council: a Claude Code skill where each seat writes first, its model is read from the harness record, and dissent is kept by name. Something to try: Clone LucasCooperBey/claude-skills, copy skills/council into ~/.claude/skills, then ask Claude Code to run a council on an important, uncertain choice.</description>
 </item>
@@ -33,7 +30,6 @@
 <title>Door 48: I get a message only when a target flips: a Cloudflare Worker that checks the addresses you list, records heartbeats, and sends a Telegram message only when one flips between up and down</title>
 <link>https://github.com/SanDiegoAIStudio/fleet-canary</link>
 <guid isPermaLink="false">100-doors-day-48</guid>
-<category>Agents</category>
 <pubDate>Tue, 25 Nov 2026 17:15:00 -0800</pubDate>
 <description>fleet-canary: a Cloudflare Worker that checks the addresses you list, records heartbeats, and sends a Telegram message only when one flips between up and down. Something to try: Clone SanDiegoAIStudio/fleet-canary, run bun install, bun test and bun run typecheck, copy the example secrets, start the local server, and fire a scheduled check.</description>
 </item>
@@ -41,7 +37,6 @@
 <title>Door 47: I skip a scheduled job while a limit holds: a wrapped job skips until the reset the tool reads in the notice, or for a window of hours when it reads none</title>
 <link>https://github.com/SanDiegoAIStudio/max-pool-governor</link>
 <guid isPermaLink="false">100-doors-day-47</guid>
-<category>Agents</category>
 <pubDate>Wed, 25 Nov 2026 08:15:00 -0800</pubDate>
 <description>max-pool-governor: a small Python program that records a usage limit notice so a wrapped job skips until the reset, or for a window of hours when the notice states none. Something to try: Clone SanDiegoAIStudio/max-pool-governor, run the tests, then MAX_POOL_STATE_DIR=$(mktemp -d) sh examples/nightly.sh</description>
 </item>
@@ -49,7 +44,6 @@
 <title>Door 46: I click a button instead of typing a command: a small server for your own machine. Buttons on a page you open from disk run commands from a list you wrote, and nothing else</title>
 <link>https://github.com/SanDiegoAIStudio/tap-server</link>
 <guid isPermaLink="false">100-doors-day-46</guid>
-<category>Tools</category>
 <pubDate>Tue, 24 Nov 2026 19:01:00 -0800</pubDate>
 <description>tap-server: a small server for your own machine. Buttons on a page you open from disk run commands from a list you wrote, and nothing else. Something to try: Clone SanDiegoAIStudio/tap-server, run the tests, copy the example command list, start the server, and open demo.html from the same folder.</description>
 </item>
@@ -57,7 +51,6 @@
 <title>Door 45: I ask what the task left behind: a skill you run after a task that lists real follow-ups and reports nothing when nothing genuine came up</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/whatdidimiss</link>
 <guid isPermaLink="false">100-doors-day-45</guid>
-<category>Recursion</category>
 <pubDate>Tue, 24 Nov 2026 08:15:00 -0800</pubDate>
 <description>whatdidimiss: a skill you run after a task. It lists real follow-ups and reports nothing when nothing genuine came up. Something to try: Clone LucasCooperBey/claude-skills, copy skills/whatdidimiss into ~/.claude/skills, then run it after a task.</description>
 </item>
@@ -65,7 +58,6 @@
 <title>Door 44: I ask how my app could be misused before someone else finds out: a skill that traces risks through the actual code, with file and line evidence</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/threat-model</link>
 <guid isPermaLink="false">100-doors-day-44</guid>
-<category>Checks</category>
 <pubDate>Mon, 23 Nov 2026 17:15:00 -0800</pubDate>
 <description>threat-model: traces risks through your actual code with file and line evidence. It documents risks and does not certify an app secure. Adapted from OpenAI's security-threat-model skill, Apache-2.0 licensed. Something to try: Clone LucasCooperBey/claude-skills, copy skills/threat-model into ~/.claude/skills, then point it at a repository you want modeled.</description>
 </item>
@@ -73,7 +65,6 @@
 <title>Door 43: I like hearing what people remember from a song: a spoken check-in that asks what stuck and compares it with the song brief</title>
 <link>https://github.com/LucasCooperBey/banger-recall</link>
 <guid isPermaLink="false">100-doors-day-43</guid>
-<category>Capture</category>
 <pubDate>Mon, 23 Nov 2026 08:15:00 -0800</pubDate>
 <description>banger-recall: a spoken check-in that asks what stuck from a song and compares it with the song brief. Live scoring needs an API key; sample replays run without one. Something to try: Clone LucasCooperBey/banger-recall and run a sample replay with no API key. Live scoring needs an API key.</description>
 </item>
@@ -81,7 +72,6 @@
 <title>Door 42: I set spending limits on my AI tools: list each paid tool, check its cap, and write down what actually happens when you hit the limit</title>
 <link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/spending-limit-checklist.md</link>
 <guid isPermaLink="false">100-doors-day-42</guid>
-<category>Checks</category>
 <pubDate>Sun, 22 Nov 2026 17:15:00 -0800</pubDate>
 <description>spending-limit-checklist: a written checklist. List each paid tool, check its cap, and write down what actually happens when you hit the limit. Something to try: Open the gift file and walk through the list for each paid AI tool: the cap, the alert, and what happens at the limit.</description>
 </item>
@@ -89,7 +79,6 @@
 <title>Door 41: I pick the app worth finishing next: list every project, mark what actually works, and choose one useful next step</title>
 <link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/list-every-app.md</link>
 <guid isPermaLink="false">100-doors-day-41</guid>
-<category>Intent</category>
 <pubDate>Sun, 22 Nov 2026 08:15:00 -0800</pubDate>
 <description>list-every-app: a 15-minute written exercise. List every project, mark each works, broken or unknown, and choose one useful next step. Something to try: List every project, mark each works, broken or unknown, pick one, and finish the sentence: To be useful to one person today, it needs ___.</description>
 </item>
@@ -97,7 +86,6 @@
 <title>Door 40: I want PDFs that print cleanly: reusable patterns for page breaks, images and print layouts</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/pdf-generation</link>
 <guid isPermaLink="false">100-doors-day-40</guid>
-<category>Tools</category>
 <pubDate>Sat, 21 Nov 2026 17:15:00 -0800</pubDate>
 <description>pdf-generation: a Claude Code skill with reusable patterns for page breaks, images and print layouts in Typst or HTML, with validation and troubleshooting notes. Something to try: Copy the pdf-generation skill into ~/.claude/skills, then use it when a table or image is running off the page.</description>
 </item>
@@ -105,7 +93,6 @@
 <title>Door 39: I hold my page up to the design: compare a screenshot with its reference and get specific fixes</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/visual-verdict</link>
 <guid isPermaLink="false">100-doors-day-39</guid>
-<category>Checks</category>
 <pubDate>Sat, 21 Nov 2026 12:15:00 -0800</pubDate>
 <description>visual-verdict: a Claude Code skill that compares a screenshot with its reference image and lists specific fixes. Something to try: Copy the visual-verdict skill into ~/.claude/skills, then give it a screenshot and its reference image.</description>
 </item>
@@ -113,7 +100,6 @@
 <title>Door 37: I check what's crowding my AI chat: estimate the space tools and instructions take</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/context-budget</link>
 <guid isPermaLink="false">100-doors-day-37</guid>
-<category>Memory</category>
 <pubDate>Fri, 20 Nov 2026 17:15:00 -0800</pubDate>
 <description>context-budget: a Claude Code skill that estimates the tokens your skills, agents, MCP tools, rules and hooks load, so you can see what to switch off. Something to try: Copy the context-budget skill into ~/.claude/skills, then ask Claude Code to use it to audit your setup.</description>
 </item>
@@ -121,7 +107,6 @@
 <title>Door 36: I like to keep the notes my AI forgets: save working notes to a file your session can read back</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/scratchpad</link>
 <guid isPermaLink="false">100-doors-day-36</guid>
-<category>Memory</category>
 <pubDate>Fri, 20 Nov 2026 08:18:00 -0800</pubDate>
 <description>scratchpad: a Claude Code skill that saves working notes to a file when you ask, so a later session can read them back. Something to try: Copy the scratchpad skill into ~/.claude/skills, then type /scratchpad and the note you want saved.</description>
 </item>
@@ -129,7 +114,6 @@
 <title>Door 35: I check my prompts against facts: match a prompt's claims to your real files, then rewrite it</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/prompt-grounding</link>
 <guid isPermaLink="false">100-doors-day-35</guid>
-<category>Intent</category>
 <pubDate>Thu, 19 Nov 2026 17:15:00 -0800</pubDate>
 <description>prompt-grounding: a Claude Code skill that checks a prompt's claims against your actual project files, then rewrites the ask. Something to try: Copy the prompt-grounding skill into ~/.claude/skills, save the prompt as prompt.txt in your project, and ask Claude Code to use the skill on it.</description>
 </item>
@@ -137,7 +121,6 @@
 <title>Door 34: I look for a tool before I build one: find existing solutions and compare their fit first</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/deep-recon</link>
 <guid isPermaLink="false">100-doors-day-34</guid>
-<category>Tools</category>
 <pubDate>Thu, 19 Nov 2026 12:15:00 -0800</pubDate>
 <description>deep-recon: a Claude Code skill that searches for existing solutions and compares how well each one fits before you build. Something to try: Copy the deep-recon skill into ~/.claude/skills, then type /deep-recon and the problem in one line, with one search round per agent.</description>
 </item>
@@ -145,7 +128,6 @@
 <title>Door 33: I check a claim before I share it: separate what the sources support from what they don't</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/adversarial-research</link>
 <guid isPermaLink="false">100-doors-day-33</guid>
-<category>Checks</category>
 <pubDate>Thu, 19 Nov 2026 08:15:00 -0800</pubDate>
 <description>adversarial-research: a Claude Code skill that sends separate verifier agents after each claim and sorts what the sources support from what they don't. Something to try: Copy the adversarial-research skill into ~/.claude/skills, then ask Claude Code to use it on a draft and extract the claims first.</description>
 </item>
@@ -153,7 +135,6 @@
 <title>Door 32: I look for duplicates in my AI setup: a ranked list of overlaps and conflicts</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/ecosystem-audit</link>
 <guid isPermaLink="false">100-doors-day-32</guid>
-<category>Checks</category>
 <pubDate>Wed, 18 Nov 2026 18:38:00 -0800</pubDate>
 <description>ecosystem-audit: a Claude Code skill that reviews your .claude setup and returns a ranked list of overlaps and conflicts, and deletes nothing. Something to try: Copy the ecosystem-audit skill into ~/.claude/skills, then ask Claude Code to use it and run the inventory first.</description>
 </item>
@@ -161,7 +142,6 @@
 <title>Door 31: I like listening to my agent's replies: hear an action-first summary instead of reading it all</title>
 <link>https://github.com/LucasCooperBey/earshot</link>
 <guid isPermaLink="false">100-doors-day-31</guid>
-<category>Tools</category>
 <pubDate>Sat, 14 Nov 2026 08:00:00 -0800</pubDate>
 <description>earshot: turns the last agent reply into a short spoken summary, action first, using Ollama and a local model on your machine. Something to try: After a long agent reply, run earshot, or type /. in Claude Code, and listen for the action first.</description>
 </item>
@@ -169,7 +149,6 @@
 <title>Door 30: Block risky commands before an AI runs them: safety checks for Claude Code, with limits</title>
 <link>https://github.com/LucasCooperBey/harness-guard</link>
 <guid isPermaLink="false">100-doors-day-30</guid>
-<category>Checks</category>
 <pubDate>Fri, 13 Nov 2026 17:15:00 -0800</pubDate>
 <description>harness-guard: eight Claude Code hooks that refuse risky agent turns, including destructive commands, force pushes to main, secrets leaving the machine, and edits that weaken your linter. Something to try: Run ./install.sh, merge the hooks block from settings.example.json into ~/.claude/settings.json, and restart Claude Code.</description>
 </item>
@@ -177,7 +156,6 @@
 <title>Door 29: Make an AI draft sound like you: check the facts and cut wording you would not say</title>
 <link>https://github.com/LucasCooperBey/writing-check</link>
 <guid isPermaLink="false">100-doors-day-29</guid>
-<category>Checks</category>
 <pubDate>Fri, 13 Nov 2026 12:15:00 -0800</pubDate>
 <description>writing-check: one Python file that lists the phrases that make a draft read as machine-written, each with its line and the rule behind it. Something to try: Run python3 writing_check.py draft.md on a draft you are about to post.</description>
 </item>
@@ -185,7 +163,6 @@
 <title>Door 28: Review with another model family: a second family asks differently</title>
 <link>https://github.com/LucasCooperBey/review-gate</link>
 <guid isPermaLink="false">100-doors-day-28</guid>
-<category>Checks</category>
 <pubDate>Fri, 13 Nov 2026 08:00:00 -0800</pubDate>
 <description>review-gate's cross-family mode: a reviewer from the other model family checks each push, and a REJECT blocks it. Something to try: Install the pre-push hook, set REVIEW_GATE_AUTHOR to the family that wrote the code (claude or codex), and push.</description>
 </item>
@@ -193,7 +170,6 @@
 <title>Door 27: Close every chat with a reason: twelve open chats became two</title>
 <link>https://github.com/LucasCooperBey/close-with-a-reason</link>
 <guid isPermaLink="false">100-doors-day-27</guid>
-<category>Memory</category>
 <pubDate>Thu, 12 Nov 2026 08:00:00 -0800</pubDate>
 <description>closeout: one Python file that sorts your recent Claude Code chats into close, keep and merge, and writes a closing note for each. Something to try: Run python3 closeout.py list to see which recent chats are safe to close; it writes nothing until you run sweep.</description>
 </item>
@@ -201,7 +177,6 @@
 <title>Door 26: Turn a long YouTube video into a shorter listen</title>
 <link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-026-condense-prompt.md</link>
 <guid isPermaLink="false">100-doors-day-26</guid>
-<category>Capture</category>
 <pubDate>Thu, 12 Nov 2026 08:00:00 -0800</pubDate>
 <description>yt-condense: give it a YouTube link and it hands back the video as spoken prose at about a fifth of the length, with or without captions. Something to try: Run yt-condense on one long video from your watch-later list and listen to what comes back.</description>
 </item>
@@ -209,7 +184,6 @@
 <title>Door 25: Get the slides from any recorded talk: what was shown and what was said, slide by slide</title>
 <link>https://github.com/LucasCooperBey/talk-to-slides</link>
 <guid isPermaLink="false">100-doors-day-25</guid>
-<category>Capture</category>
 <pubDate>Fri, 06 Nov 2026 08:00:00 -0800</pubDate>
 <description>talk-to-slides: turns a talk recording into slide images, the text on each slide, and a short HTML report. Something to try: Run talk-to-slides run recording.mp4 --out talk-out on a recording you have the right to process.</description>
 </item>
@@ -217,7 +191,6 @@
 <title>Door 23: Find the right AI tool fast: a hand-reviewed directory with honest pros and cons</title>
 <link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-023-hand-review-card.md</link>
 <guid isPermaLink="false">100-doors-day-23</guid>
-<category>Tools</category>
 <pubDate>Wed, 04 Nov 2026 08:00:00 -0800</pubDate>
 <description>directoryofagents.com, the hand-reviewed directory itself, and the card behind every listing: three rules, a made-up filled example and a zero-code prompt. Something to try: Before you pay for an AI tool, fill in one card for it after an hour of your own use.</description>
 </item>
@@ -225,7 +198,6 @@
 <title>Door 22: Explain anything to anyone: one plain sentence first, the deep detail last</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/breakdown</link>
 <guid isPermaLink="false">100-doors-day-22</guid>
-<category>Tools</category>
 <pubDate>Tue, 03 Nov 2026 08:00:00 -0800</pubDate>
 <description>The breakdown skill: one plain sentence first, then sections at 100,000, 50,000, 30,000 and 10,000 feet, each readable on its own. Something to try: Drop the folder into your Claude Code skills and say "break it down".</description>
 </item>
@@ -233,7 +205,6 @@
 <title>Door 21: Remember why you decided: one dated note per decision</title>
 <link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-021-dated-decision-entry.md</link>
 <guid isPermaLink="false">100-doors-day-21</guid>
-<category>Memory</category>
 <pubDate>Sun, 01 Nov 2026 08:00:00 -0800</pubDate>
 <description>wiki-write, a Claude Code skill that files one dated note per real decision and keeps an index a later reader searches, plus the by-hand template with a made-up example. Something to try: After any big choice, write one dated file: what you picked, what you passed on, and the reason.</description>
 </item>
@@ -241,7 +212,6 @@
 <title>Door 20: Precompact Protector: keep your place through a compaction</title>
 <link>https://github.com/LucasCooperBey/precompact-protector</link>
 <guid isPermaLink="false">100-doors-day-20</guid>
-<category>Memory</category>
 <pubDate>Fri, 30 Oct 2026 08:00:00 -0700</pubDate>
 <description>precompact-protector: two Claude Code hooks that save the last 40 turns before compaction and hand back your last request and the files in play after. Something to try: Merge settings-snippet.json into ~/.claude/settings.json with the real path; nothing to install.</description>
 </item>
@@ -249,7 +219,6 @@
 <title>Door 19: Field Audit: grade your AI setup with receipts</title>
 <link>https://github.com/LucasCooperBey/intelligent-os-field-audit</link>
 <guid isPermaLink="false">100-doors-day-19</guid>
-<category>Checks</category>
 <pubDate>Fri, 30 Oct 2026 08:00:00 -0700</pubDate>
 <description>Field Audit: one paste-in prompt that has Claude Code audit the AI system on your machine, scoring 12 parts with a receipt each and naming every gap. Something to try: Paste the prompt file into Claude Code at your system root; post your scorecard as an issue to join the ledger.</description>
 </item>
@@ -257,7 +226,6 @@
 <title>Door 18: The Spine Pattern: memory that never erases</title>
 <link>https://github.com/LucasCooperBey/spine-pattern</link>
 <guid isPermaLink="false">100-doors-day-18</guid>
-<category>Memory</category>
 <pubDate>Wed, 28 Oct 2026 08:00:00 -0700</pubDate>
 <description>The Spine Pattern: 13 principles, a 6-part checklist and a standard-library engine for an append-only log with provenance, typed edges and supersede. Something to try: Run the README's ledger story on a fresh clone: three values kept, two SUPERSEDES edges, nothing erased.</description>
 </item>
@@ -265,7 +233,6 @@
 <title>Door 17: Blind Council: five models argue, one settles</title>
 <link>https://github.com/LucasCooperBey/blind-council</link>
 <guid isPermaLink="false">100-doors-day-17</guid>
-<category>Agents</category>
 <pubDate>Thu, 29 Oct 2026 08:00:00 -0700</pubDate>
 <description>Blind Council: five models answer on their own, cross-examine each other as MEMBER-A to E, and a sixth model that never debated settles it. Something to try: bun install, put an OpenRouter key in .env, then bun run council "your question" (about one to two dollars for a six-seat run).</description>
 </item>
@@ -273,7 +240,6 @@
 <title>Door 16: CorpusSync: search what you already know</title>
 <link>https://github.com/LucasCooperBey/corpussync</link>
 <guid isPermaLink="false">100-doors-day-16</guid>
-<category>Memory</category>
 <pubDate>Wed, 28 Oct 2026 08:00:00 -0700</pubDate>
 <description>CorpusSync: ingest notes, documents and YouTube captions into a local Qdrant store, search by meaning and by exact word behind a relevance gate, and get answers from a local Ollama model with numbered sources. Something to try: pip install -e . in a venv, ollama pull nomic-embed-text, then corpussync ingest ./notes --corpus notes and corpussync search.</description>
 </item>
@@ -281,7 +247,6 @@
 <title>Door 15: Changelog Digest: your changelog becomes content</title>
 <link>https://github.com/SanDiegoAIStudio/changelog-digest</link>
 <guid isPermaLink="false">100-doors-day-15</guid>
-<category>Recursion</category>
 <pubDate>Tue, 27 Oct 2026 08:00:00 -0700</pubDate>
 <description>changelog-digest again (the Door 8 tool): a Python script that reads a markdown changelog and writes a hook, a short story and video ideas. Something to try: Run python3 changelog_digest.py examples/sample-changelog.md --date 2026-03-14 --dry-run to see the prompt without an API key.</description>
 </item>
@@ -289,7 +254,6 @@
 <title>Door 14: ShipGate: no leaked keys go public</title>
 <link>https://github.com/LucasCooperBey/shipgate</link>
 <guid isPermaLink="false">100-doors-day-14</guid>
-<category>Checks</category>
 <pubDate>Mon, 26 Oct 2026 08:00:00 -0700</pubDate>
 <description>ShipGate: one shell script, ship-gate.sh, that runs gitleaks and trufflehog over the full history and checks the LICENSE, a raw .env and attribution, with one exit code. Something to try: brew install gitleaks trufflehog, put ship-gate.sh on your PATH and run it in a repo before it goes public.</description>
 </item>
@@ -297,7 +261,6 @@
 <title>Door 13: Review gate: fresh eyes on every push</title>
 <link>https://github.com/LucasCooperBey/review-gate</link>
 <guid isPermaLink="false">100-doors-day-13</guid>
-<category>Checks</category>
 <pubDate>Sun, 25 Oct 2026 08:00:00 -0700</pubDate>
 <description>review-gate: one Python file (standard library only), an install script that writes a pre-push hook, and 45 tests. Something to try: Run install.sh inside your project to add the pre-push hook; it needs the Claude Code CLI signed in and Python 3.10 or newer.</description>
 </item>
@@ -305,7 +268,6 @@
 <title>Door 12: Hooks over reminders: checks on every agent edit</title>
 <link>https://github.com/LucasCooperBey/harness-guard</link>
 <guid isPermaLink="false">100-doors-day-12</guid>
-<category>Checks</category>
 <pubDate>Sat, 24 Oct 2026 08:00:00 -0700</pubDate>
 <description>harness-guard: four quality hooks plus the safety hooks for Claude Code, each a short shell script you can read first. Something to try: Clone it and run ./install.sh, or merge just the four quality-hook lines from settings.example.json into ~/.claude/settings.json.</description>
 </item>
@@ -313,7 +275,6 @@
 <title>Door 11: TabMap: why 200 tabs are open</title>
 <link>https://github.com/LucasCooperBey/tabmap</link>
 <guid isPermaLink="false">100-doors-day-11</guid>
-<category>Capture</category>
 <pubDate>Fri, 23 Oct 2026 08:00:00 -0700</pubDate>
 <description>TabMap: captures your open tabs, labels each by intent, project, stale or solved, then offers a cleanup that lists before it closes anything. Something to try: Clone it, pip install -r requirements.txt, run python3 -m tab_intel.capture, then preview the cleanup with auto_cleaner.py --dry-run.</description>
 </item>
@@ -321,7 +282,6 @@
 <title>Door 10: Ecosystem MCP: research npm packages from inside Claude Code</title>
 <link>https://github.com/SanDiegoAIStudio/ecosystem-mcp</link>
 <guid isPermaLink="false">100-doors-day-10</guid>
-<category>Tools</category>
 <pubDate>Thu, 22 Oct 2026 08:00:00 -0700</pubDate>
 <description>The repo: research, compare and security-check npm packages from inside Claude Code. Something to try: Add it to Claude Code and ask it to compare two packages before you install either.</description>
 </item>
@@ -329,7 +289,6 @@
 <title>Door 9: block-destructive: a Claude Code hook that stops destructive shell commands before the agent runs them</title>
 <link>https://github.com/LucasCooperBey/block-destructive</link>
 <guid isPermaLink="false">100-doors-day-9</guid>
-<category>Checks</category>
 <pubDate>Wed, 21 Oct 2026 08:00:00 -0700</pubDate>
 <description>The hook: refuses rm -rf on root or home, force-pushes to main, git push --no-verify and curl piped into sh; a seatbelt for accidents, not a sandbox. Something to try: Copy block-destructive.sh to ~/.claude/hooks and add it as a PreToolUse hook on Bash.</description>
 </item>
@@ -337,7 +296,6 @@
 <title>Door 8: The changelog that becomes content</title>
 <link>https://github.com/SanDiegoAIStudio/changelog-digest</link>
 <guid isPermaLink="false">100-doors-day-8</guid>
-<category>Recursion</category>
 <pubDate>Tue, 20 Oct 2026 08:00:00 -0700</pubDate>
 <description>changelog-digest: turn a day of changelog entries into a hook, a short story and video ideas. Something to try: Run the dry run on the sample changelog, then on your own.</description>
 </item>
@@ -345,7 +303,6 @@
 <title>Door 7: The perfection pass: ask for two critique passes before you look</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/pp2p</link>
 <guid isPermaLink="false">100-doors-day-7</guid>
-<category>Recursion</category>
 <pubDate>Mon, 19 Oct 2026 08:00:00 -0700</pubDate>
 <description>pp2p and pp3p, two Claude Code skills: two or three critique passes, then a polish. Something to try: Before you read your agent's next piece of work, ask it for two critique passes that try to break it, then a polish.</description>
 </item>
@@ -353,7 +310,6 @@
 <title>Door 6: My Claude Code config, and the ramp: a 53-second first session in May, then 146 sessions from November 8 to December 11</title>
 <link>https://github.com/SanDiegoAIStudio/claude-config-public</link>
 <guid isPermaLink="false">100-doors-day-6</guid>
-<category>Intent</category>
 <pubDate>Sun, 18 Oct 2026 08:00:00 -0700</pubDate>
 <description>claude-config-public: the operating-rules template. Something to try: Copy it to ~/.claude/CLAUDE.md and fill in the 5 placeholders.</description>
 </item>
@@ -361,7 +317,6 @@
 <title>Door 5: treehouse: a git worktree pool for running several coding agents side by side</title>
 <link>https://github.com/LucasCooperBey/treehouse</link>
 <guid isPermaLink="false">100-doors-day-5</guid>
-<category>Agents</category>
 <pubDate>Sun, 18 Oct 2026 08:00:00 -0700</pubDate>
 <description>treehouse, one bash file that needs only git: spin a worktree per agent, glance at which are dirty on one screen, and sweep only the clean, merged ones. Something to try: Run treehouse spin 3, then treehouse glance.</description>
 </item>
@@ -369,7 +324,6 @@
 <title>Door 4: FriendForm: a form friends fill out from a link</title>
 <link>https://github.com/LucasCooperBey/friendform</link>
 <guid isPermaLink="false">100-doors-day-4</guid>
-<category>Capture</category>
 <pubDate>Fri, 16 Oct 2026 08:00:00 -0700</pubDate>
 <description>friendform, the self-hosted form builder: start from a blank form or one of seven templates, share a link, collect and export the answers. Something to try: Run bun install, bun run setup and bun run dev, rebuild one questionnaire you send around as a document, and cut every question you would not act on.</description>
 </item>
@@ -377,7 +331,6 @@
 <title>Door 3: My CRM, started on Replit from two pasted documents</title>
 <link>https://github.com/LucasCooperBey/dataguard</link>
 <guid isPermaLink="false">100-doors-day-3</guid>
-<category>Checks</category>
 <pubDate>Thu, 15 Oct 2026 08:00:00 -0700</pubDate>
 <description>dataguard, pulled out of that CRM: checks a PostgreSQL or SQLite database for orphaned records, dates out of order, wrong totals and null gaps, with an HTML report. Something to try: Pick one table in a database you own and count the rows that point at a record that no longer exists.</description>
 </item>
@@ -385,7 +338,6 @@
 <title>Door 2: WebPerformanceToolkit: my first app in git, and its 33 hours of simulated scores</title>
 <link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/FIRST-PROMPT-TEMPLATE.md</link>
 <guid isPermaLink="false">100-doors-day-2</guid>
-<category>Intent</category>
 <pubDate>Wed, 14 Oct 2026 08:00:00 -0700</pubDate>
 <description>The first prompt template: twelve sections plus the real-data line. Something to try: Before your next build, fill in at least sections 1, 4, 5 and 6, then paste the whole thing as your first message.</description>
 </item>
@@ -393,7 +345,6 @@
 <title>Door 1: RobotTales: bedtime stories where robot siblings teach if/else, loops and variables</title>
 <link>https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-001-bedtime-story-prompt.md</link>
 <guid isPermaLink="false">100-doors-day-1</guid>
-<category>Intent</category>
 <pubDate>Tue, 13 Oct 2026 08:00:00 -0700</pubDate>
 <description>A bedtime-story prompt that teaches one coding idea. Something to try: Paste it into any chat model, fill in the three brackets, and read what comes back before you read it aloud.</description>
 </item>

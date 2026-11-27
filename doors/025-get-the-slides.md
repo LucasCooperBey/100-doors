@@ -2,7 +2,7 @@
 
 - **Date:** November 6, 2026
 - **Built:** June 6, 2026
-- **Room:** Capture (1 of 7)
+- **Room:** 3
 - **Code:** [LucasCooperBey/talk-to-slides](https://github.com/LucasCooperBey/talk-to-slides)
 
 ## What it is

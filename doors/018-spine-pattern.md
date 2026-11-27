@@ -2,7 +2,7 @@
 
 - **Date:** October 30, 2026
 - **Built:** June 18, 2026
-- **Room:** Memory (2 of 7)
+- **Room:** 2
 - **Code:** [LucasCooperBey/spine-pattern](https://github.com/LucasCooperBey/spine-pattern)
 
 ## What it is
