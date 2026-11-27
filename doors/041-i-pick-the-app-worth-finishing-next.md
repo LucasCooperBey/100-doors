@@ -2,7 +2,7 @@
 
 - **Date:** November 22, 2026
 - **Built:** mid-2026
-- **Room:** 5
+- **Room:** Intent (3 of 7)
 - **Gift:** [list-every-app.md](https://github.com/LucasCooperBey/100-doors/blob/main/gifts/list-every-app.md)
 
 ## What it is

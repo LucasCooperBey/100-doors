@@ -2,7 +2,7 @@
 
 - **Date:** November 22, 2026
 - **Built:** mid-2026
-- **Room:** 5
+- **Room:** Checks (6 of 7)
 - **Gift:** [spending-limit-checklist.md](https://github.com/LucasCooperBey/100-doors/blob/main/gifts/spending-limit-checklist.md)
 
 ## What it is

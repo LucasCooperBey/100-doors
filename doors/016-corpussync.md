@@ -2,7 +2,7 @@
 
 - **Date:** October 28, 2026
 - **Built:** June 20, 2026
-- **Room:** 2
+- **Room:** Memory (2 of 7)
 - **Code:** [LucasCooperBey/corpussync](https://github.com/LucasCooperBey/corpussync)
 
 ## What it is

@@ -2,7 +2,7 @@
 
 - **Date:** November 14, 2026
 - **Built:** June 21, 2026
-- **Room:** 4
+- **Room:** Tools (4 of 7)
 - **Gift:** [earshot](https://github.com/LucasCooperBey/earshot)
 
 ## What it is

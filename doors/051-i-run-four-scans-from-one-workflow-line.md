@@ -2,7 +2,7 @@
 
 - **Date:** November 27, 2026
 - **Built:** November 14, 2026
-- **Room:** 6
+- **Room:** Checks (6 of 7)
 - **Gift:** [security-scan-workflow](https://github.com/SanDiegoAIStudio/security-scan-workflow)
 
 ## What it is

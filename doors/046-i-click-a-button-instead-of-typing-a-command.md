@@ -2,7 +2,7 @@
 
 - **Date:** November 24, 2026
 - **Built:** November 14, 2026
-- **Room:** 5
+- **Room:** Tools (4 of 7)
 - **Gift:** [tap-server](https://github.com/SanDiegoAIStudio/tap-server)
 
 ## What it is

@@ -2,7 +2,7 @@
 
 - **Date:** November 20, 2026
 - **Built:** June 20, 2026
-- **Room:** 4
+- **Room:** Memory (2 of 7)
 - **Gift:** [scratchpad](https://github.com/LucasCooperBey/claude-skills/tree/main/skills/scratchpad)
 
 ## What it is

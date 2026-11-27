@@ -2,7 +2,7 @@
 
 - **Date:** November 18, 2026
 - **Built:** June 20, 2026
-- **Room:** 4
+- **Room:** Checks (6 of 7)
 - **Gift:** [ecosystem-audit](https://github.com/LucasCooperBey/claude-skills/tree/main/skills/ecosystem-audit)
 
 ## What it is

@@ -2,7 +2,7 @@
 
 - **Date:** November 25, 2026
 - **Built:** November 14, 2026
-- **Room:** 5
+- **Room:** Agents (5 of 7)
 - **Gift:** [max-pool-governor](https://github.com/SanDiegoAIStudio/max-pool-governor)
 
 ## What it is

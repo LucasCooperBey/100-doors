@@ -2,7 +2,7 @@
 
 - **Date:** October 31, 2026
 - **Built:** May 2, 2026
-- **Room:** 3
+- **Room:** Memory (2 of 7)
 - **Code:** [gifts/DAY-021-dated-decision-entry.md](https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-021-dated-decision-entry.md)
 
 ## What it is

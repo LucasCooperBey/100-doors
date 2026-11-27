@@ -2,7 +2,7 @@
 
 - **Date:** October 30, 2026
 - **Built:** June 17, 2026
-- **Room:** 2
+- **Room:** Memory (2 of 7)
 - **Code:** [LucasCooperBey/precompact-protector](https://github.com/LucasCooperBey/precompact-protector)
 
 ## What it is

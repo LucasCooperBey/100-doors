@@ -7,343 +7,441 @@
       "date": "2026-10-13",
       "title": "RobotTales: bedtime stories where robot siblings teach if/else, loops and variables",
       "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-001-bedtime-story-prompt.md",
-      "room": 1
+      "room": 3,
+      "room_name": "Intent",
+      "room_slug": "intent"
     },
     {
       "day": 2,
       "date": "2026-10-14",
       "title": "WebPerformanceToolkit: my first app in git, and its 33 hours of simulated scores",
       "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/FIRST-PROMPT-TEMPLATE.md",
-      "room": 1
+      "room": 3,
+      "room_name": "Intent",
+      "room_slug": "intent"
     },
     {
       "day": 3,
       "date": "2026-10-15",
       "title": "My CRM, started on Replit from two pasted documents",
       "gift_link": "https://github.com/LucasCooperBey/dataguard",
-      "room": 1
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 4,
       "date": "2026-10-16",
       "title": "FriendForm: a form friends fill out from a link",
       "gift_link": "https://github.com/LucasCooperBey/friendform",
-      "room": 1
+      "room": 1,
+      "room_name": "Capture",
+      "room_slug": "capture"
     },
     {
       "day": 5,
       "date": "2026-10-18",
       "title": "treehouse: a git worktree pool for running several coding agents side by side",
       "gift_link": "https://github.com/LucasCooperBey/treehouse",
-      "room": 1
+      "room": 5,
+      "room_name": "Agents",
+      "room_slug": "agents"
     },
     {
       "day": 6,
       "date": "2026-10-18",
       "title": "My Claude Code config, and the ramp: a 53-second first session in May, then 146 sessions from November 8 to December 11",
       "gift_link": "https://github.com/SanDiegoAIStudio/claude-config-public",
-      "room": 1
+      "room": 3,
+      "room_name": "Intent",
+      "room_slug": "intent"
     },
     {
       "day": 7,
       "date": "2026-10-19",
       "title": "The perfection pass: ask for two critique passes before you look",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/pp2p",
-      "room": 1
+      "room": 7,
+      "room_name": "Recursion",
+      "room_slug": "recursion"
     },
     {
       "day": 8,
       "date": "2026-10-20",
       "title": "The changelog that becomes content",
       "gift_link": "https://github.com/SanDiegoAIStudio/changelog-digest",
-      "room": 1
+      "room": 7,
+      "room_name": "Recursion",
+      "room_slug": "recursion"
     },
     {
       "day": 9,
       "date": "2026-10-21",
       "title": "block-destructive: a Claude Code hook that stops destructive shell commands before the agent runs them",
       "gift_link": "https://github.com/LucasCooperBey/block-destructive",
-      "room": 1
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 10,
       "date": "2026-10-22",
       "title": "Ecosystem MCP: research npm packages from inside Claude Code",
       "gift_link": "https://github.com/SanDiegoAIStudio/ecosystem-mcp",
-      "room": 1
+      "room": 4,
+      "room_name": "Tools",
+      "room_slug": "tools"
     },
     {
       "day": 11,
       "date": "2026-10-23",
       "title": "TabMap: why 200 tabs are open",
       "gift_link": "https://github.com/LucasCooperBey/tabmap",
-      "room": 2
+      "room": 1,
+      "room_name": "Capture",
+      "room_slug": "capture"
     },
     {
       "day": 12,
       "date": "2026-10-24",
       "title": "Hooks over reminders: checks on every agent edit",
       "gift_link": "https://github.com/LucasCooperBey/harness-guard",
-      "room": 2
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 13,
       "date": "2026-10-25",
       "title": "Review gate: fresh eyes on every push",
       "gift_link": "https://github.com/LucasCooperBey/review-gate",
-      "room": 2
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 14,
       "date": "2026-10-26",
       "title": "ShipGate: no leaked keys go public",
       "gift_link": "https://github.com/LucasCooperBey/shipgate",
-      "room": 2
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 15,
       "date": "2026-10-27",
       "title": "Changelog Digest: your changelog becomes content",
       "gift_link": "https://github.com/SanDiegoAIStudio/changelog-digest",
-      "room": 2
+      "room": 7,
+      "room_name": "Recursion",
+      "room_slug": "recursion"
     },
     {
       "day": 16,
       "date": "2026-10-28",
       "title": "CorpusSync: search what you already know",
       "gift_link": "https://github.com/LucasCooperBey/corpussync",
-      "room": 2
+      "room": 2,
+      "room_name": "Memory",
+      "room_slug": "memory"
     },
     {
       "day": 17,
       "date": "2026-10-29",
       "title": "Blind Council: five models argue, one settles",
       "gift_link": "https://github.com/LucasCooperBey/blind-council",
-      "room": 2
+      "room": 5,
+      "room_name": "Agents",
+      "room_slug": "agents"
     },
     {
       "day": 18,
       "date": "2026-10-28",
       "title": "The Spine Pattern: memory that never erases",
       "gift_link": "https://github.com/LucasCooperBey/spine-pattern",
-      "room": 2
+      "room": 2,
+      "room_name": "Memory",
+      "room_slug": "memory"
     },
     {
       "day": 19,
       "date": "2026-10-30",
       "title": "Field Audit: grade your AI setup with receipts",
       "gift_link": "https://github.com/LucasCooperBey/intelligent-os-field-audit",
-      "room": 2
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 20,
       "date": "2026-10-30",
       "title": "Precompact Protector: keep your place through a compaction",
       "gift_link": "https://github.com/LucasCooperBey/precompact-protector",
-      "room": 2
+      "room": 2,
+      "room_name": "Memory",
+      "room_slug": "memory"
     },
     {
       "day": 21,
       "date": "2026-11-01",
       "title": "Remember why you decided: one dated note per decision",
       "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-021-dated-decision-entry.md",
-      "room": 3
+      "room": 2,
+      "room_name": "Memory",
+      "room_slug": "memory"
     },
     {
       "day": 22,
       "date": "2026-11-03",
       "title": "Explain anything to anyone: one plain sentence first, the deep detail last",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/breakdown",
-      "room": 3
+      "room": 4,
+      "room_name": "Tools",
+      "room_slug": "tools"
     },
     {
       "day": 23,
       "date": "2026-11-04",
       "title": "Find the right AI tool fast: a hand-reviewed directory with honest pros and cons",
       "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-023-hand-review-card.md",
-      "room": 3
+      "room": 4,
+      "room_name": "Tools",
+      "room_slug": "tools"
     },
     {
       "day": 25,
       "date": "2026-11-06",
       "title": "Get the slides from any recorded talk: what was shown and what was said, slide by slide",
       "gift_link": "https://github.com/LucasCooperBey/talk-to-slides",
-      "room": 3
+      "room": 1,
+      "room_name": "Capture",
+      "room_slug": "capture"
     },
     {
       "day": 26,
       "date": "2026-11-12",
       "title": "Turn a long YouTube video into a shorter listen",
       "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/DAY-026-condense-prompt.md",
-      "room": 3
+      "room": 1,
+      "room_name": "Capture",
+      "room_slug": "capture"
     },
     {
       "day": 27,
       "date": "2026-11-12",
       "title": "Close every chat with a reason: twelve open chats became two",
       "gift_link": "https://github.com/LucasCooperBey/close-with-a-reason",
-      "room": 3
+      "room": 2,
+      "room_name": "Memory",
+      "room_slug": "memory"
     },
     {
       "day": 28,
       "date": "2026-11-13",
       "title": "Review with another model family: a second family asks differently",
       "gift_link": "https://github.com/LucasCooperBey/review-gate",
-      "room": 3
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 29,
       "date": "2026-11-13",
       "title": "Make an AI draft sound like you: check the facts and cut wording you would not say",
       "gift_link": "https://github.com/LucasCooperBey/writing-check",
-      "room": 3
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 30,
       "date": "2026-11-13",
       "title": "Block risky commands before an AI runs them: safety checks for Claude Code, with limits",
       "gift_link": "https://github.com/LucasCooperBey/harness-guard",
-      "room": 3
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 31,
       "date": "2026-11-14",
       "title": "I like listening to my agent's replies: hear an action-first summary instead of reading it all",
       "gift_link": "https://github.com/LucasCooperBey/earshot",
-      "room": 4
+      "room": 4,
+      "room_name": "Tools",
+      "room_slug": "tools"
     },
     {
       "day": 32,
       "date": "2026-11-18",
       "title": "I look for duplicates in my AI setup: a ranked list of overlaps and conflicts",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/ecosystem-audit",
-      "room": 4
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 33,
       "date": "2026-11-19",
       "title": "I check a claim before I share it: separate what the sources support from what they don't",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/adversarial-research",
-      "room": 4
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 34,
       "date": "2026-11-19",
       "title": "I look for a tool before I build one: find existing solutions and compare their fit first",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/deep-recon",
-      "room": 4
+      "room": 4,
+      "room_name": "Tools",
+      "room_slug": "tools"
     },
     {
       "day": 35,
       "date": "2026-11-19",
       "title": "I check my prompts against facts: match a prompt's claims to your real files, then rewrite it",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/prompt-grounding",
-      "room": 4
+      "room": 3,
+      "room_name": "Intent",
+      "room_slug": "intent"
     },
     {
       "day": 36,
       "date": "2026-11-20",
       "title": "I like to keep the notes my AI forgets: save working notes to a file your session can read back",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/scratchpad",
-      "room": 4
+      "room": 2,
+      "room_name": "Memory",
+      "room_slug": "memory"
     },
     {
       "day": 37,
       "date": "2026-11-20",
       "title": "I check what's crowding my AI chat: estimate the space tools and instructions take",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/context-budget",
-      "room": 4
+      "room": 2,
+      "room_name": "Memory",
+      "room_slug": "memory"
     },
     {
       "day": 39,
       "date": "2026-11-21",
       "title": "I hold my page up to the design: compare a screenshot with its reference and get specific fixes",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/visual-verdict",
-      "room": 4
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 40,
       "date": "2026-11-21",
       "title": "I want PDFs that print cleanly: reusable patterns for page breaks, images and print layouts",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/pdf-generation",
-      "room": 4
+      "room": 4,
+      "room_name": "Tools",
+      "room_slug": "tools"
     },
     {
       "day": 41,
       "date": "2026-11-22",
       "title": "I pick the app worth finishing next: list every project, mark what actually works, and choose one useful next step",
       "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/list-every-app.md",
-      "room": 5
+      "room": 3,
+      "room_name": "Intent",
+      "room_slug": "intent"
     },
     {
       "day": 42,
       "date": "2026-11-22",
       "title": "I set spending limits on my AI tools: list each paid tool, check its cap, and write down what actually happens when you hit the limit",
       "gift_link": "https://github.com/LucasCooperBey/100-doors/blob/main/gifts/spending-limit-checklist.md",
-      "room": 5
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 43,
       "date": "2026-11-23",
       "title": "I like hearing what people remember from a song: a spoken check-in that asks what stuck and compares it with the song brief",
       "gift_link": "https://github.com/LucasCooperBey/banger-recall",
-      "room": 5
+      "room": 1,
+      "room_name": "Capture",
+      "room_slug": "capture"
     },
     {
       "day": 44,
       "date": "2026-11-23",
       "title": "I ask how my app could be misused before someone else finds out: a skill that traces risks through the actual code, with file and line evidence",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/threat-model",
-      "room": 5
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     },
     {
       "day": 45,
       "date": "2026-11-24",
       "title": "I ask what the task left behind: a skill you run after a task that lists real follow-ups and reports nothing when nothing genuine came up",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/whatdidimiss",
-      "room": 5
+      "room": 7,
+      "room_name": "Recursion",
+      "room_slug": "recursion"
     },
     {
       "day": 46,
       "date": "2026-11-24",
       "title": "I click a button instead of typing a command: a small server for your own machine. Buttons on a page you open from disk run commands from a list you wrote, and nothing else",
       "gift_link": "https://github.com/SanDiegoAIStudio/tap-server",
-      "room": 5
+      "room": 4,
+      "room_name": "Tools",
+      "room_slug": "tools"
     },
     {
       "day": 47,
       "date": "2026-11-25",
       "title": "I skip a scheduled job while a limit holds: a wrapped job skips until the reset the tool reads in the notice, or for a window of hours when it reads none",
       "gift_link": "https://github.com/SanDiegoAIStudio/max-pool-governor",
-      "room": 5
+      "room": 5,
+      "room_name": "Agents",
+      "room_slug": "agents"
     },
     {
       "day": 48,
       "date": "2026-11-25",
       "title": "I get a message only when a target flips: a Cloudflare Worker that checks the addresses you list, records heartbeats, and sends a Telegram message only when one flips between up and down",
       "gift_link": "https://github.com/SanDiegoAIStudio/fleet-canary",
-      "room": 5
+      "room": 5,
+      "room_name": "Agents",
+      "room_slug": "agents"
     },
     {
       "day": 49,
       "date": "2026-11-26",
       "title": "I ask real models before I make the call: a Claude Code skill where each seat writes first, its model is read from the harness record, and dissent is kept by name",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/council",
-      "room": 5
+      "room": 5,
+      "room_name": "Agents",
+      "room_slug": "agents"
     },
     {
       "day": 50,
       "date": "2026-11-26",
       "title": "I give one tool a repository of its own: a Claude Code skill that runs five yes-or-no checks, scrubs the copy, searches the files, and starts out private",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/opensource",
-      "room": 5
+      "room": 4,
+      "room_name": "Tools",
+      "room_slug": "tools"
     },
     {
       "day": 51,
       "date": "2026-11-27",
       "title": "I run four scans from one workflow line: a GitHub Actions workflow that runs a dependency audit, CodeQL, a secret scan and a container scan from one uses line",
       "gift_link": "https://github.com/SanDiegoAIStudio/security-scan-workflow",
-      "room": 6
+      "room": 6,
+      "room_name": "Checks",
+      "room_slug": "checks"
     }
   ]
 }

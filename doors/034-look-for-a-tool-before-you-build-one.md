@@ -2,7 +2,7 @@
 
 - **Date:** November 19, 2026
 - **Built:** June 20, 2026
-- **Room:** 4
+- **Room:** Tools (4 of 7)
 - **Gift:** [deep-recon](https://github.com/LucasCooperBey/claude-skills/tree/main/skills/deep-recon)
 
 ## What it is

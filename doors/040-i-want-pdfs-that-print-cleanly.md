@@ -2,7 +2,7 @@
 
 - **Date:** November 21, 2026
 - **Built:** June 21, 2026
-- **Room:** 4
+- **Room:** Tools (4 of 7)
 - **Gift:** [pdf-generation](https://github.com/LucasCooperBey/claude-skills/tree/main/skills/pdf-generation)
 
 ## What it is

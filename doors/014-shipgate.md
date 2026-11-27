@@ -2,7 +2,7 @@
 
 - **Date:** October 26, 2026
 - **Built:** June 20, 2026
-- **Room:** 2
+- **Room:** Checks (6 of 7)
 - **Code:** [LucasCooperBey/shipgate](https://github.com/LucasCooperBey/shipgate)
 
 ## What it is
