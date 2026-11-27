@@ -4,7 +4,21 @@
 <link>https://github.com/LucasCooperBey/100-doors</link>
 <description>100 doors into the things I've made with AI, from my first app to the system I run now.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 26 Nov 2026 08:15:00 -0800</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 08:15:00 -0800</lastBuildDate>
+<item>
+<title>Door 51: I run four scans from one workflow line: a GitHub Actions workflow that runs a dependency audit, CodeQL, a secret scan and a container scan from one uses line</title>
+<link>https://github.com/SanDiegoAIStudio/security-scan-workflow</link>
+<guid isPermaLink="false">100-doors-day-51</guid>
+<pubDate>Fri, 27 Nov 2026 08:15:00 -0800</pubDate>
+<description>security-scan-workflow: a reusable GitHub Actions workflow that can run a dependency audit, CodeQL, a secret scan and a container scan from one uses line. Something to try: Clone SanDiegoAIStudio/security-scan-workflow and copy the job in examples/caller.yml into a workflow in your GitHub repository.</description>
+</item>
+<item>
+<title>Door 50: I give one tool a repository of its own: a Claude Code skill that runs five yes-or-no checks, scrubs the copy, searches the files, and starts out private</title>
+<link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/opensource</link>
+<guid isPermaLink="false">100-doors-day-50</guid>
+<pubDate>Thu, 26 Nov 2026 17:25:00 -0800</pubDate>
+<description>opensource: a Claude Code skill that runs five yes-or-no checks, scrubs a copied tool, searches the files, and goes public only on your yes. Something to try: Clone LucasCooperBey/claude-skills, copy skills/opensource into ~/.claude/skills, then run the sample leak search and scrub from the skill folder.</description>
+</item>
 <item>
 <title>Door 49: I ask real models before I make the call: a Claude Code skill where each seat writes first, its model is read from the harness record, and dissent is kept by name</title>
 <link>https://github.com/LucasCooperBey/claude-skills/tree/main/skills/council</link>

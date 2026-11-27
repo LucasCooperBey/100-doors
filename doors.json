@@ -330,6 +330,20 @@
       "title": "I ask real models before I make the call: a Claude Code skill where each seat writes first, its model is read from the harness record, and dissent is kept by name",
       "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/council",
       "room": 5
+    },
+    {
+      "day": 50,
+      "date": "2026-11-26",
+      "title": "I give one tool a repository of its own: a Claude Code skill that runs five yes-or-no checks, scrubs the copy, searches the files, and starts out private",
+      "gift_link": "https://github.com/LucasCooperBey/claude-skills/tree/main/skills/opensource",
+      "room": 5
+    },
+    {
+      "day": 51,
+      "date": "2026-11-27",
+      "title": "I run four scans from one workflow line: a GitHub Actions workflow that runs a dependency audit, CodeQL, a secret scan and a container scan from one uses line",
+      "gift_link": "https://github.com/SanDiegoAIStudio/security-scan-workflow",
+      "room": 6
     }
   ]
 }
